@@ -20,11 +20,8 @@ This repo will be used of deposition of training documentations.
 * Evolution and different types of Packaged Chip, example:
 * Evolution and different types of Packaged Chip, example:  
 ![00](https://user-images.githubusercontent.com/121996016/211218848-2589ce0a-61c6-4ebd-b7cd-7b9c6188c8c0.jpg)
-![image](https://user-images.githubusercontent.com/121993909/211230421-c252006e-1331-49ed-869e-84fc03fca8c4.png)
-
 
   * SIP (System In Package): 
-@@ -34,15 +35,16 @@
     * able to provide more interconnection pins than can be put on a dual in-line or flat package
     * ![04](https://user-images.githubusercontent.com/121996016/211218901-8f07ae64-801f-49c2-ad1b-ecc0a2f56317.png)
 
