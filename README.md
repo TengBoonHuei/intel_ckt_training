@@ -60,7 +60,11 @@ This repo will be used of deposition of training documentations.
 
 <details><summary> VLSI Design Methodology </summary>
 
-### Despite of different design style, proper functionality, low cost and timely execution is much more important
+### Critical factors of design execution:
+  * functionality, perormance & quality
+  * low cost
+  * faster time-to-market
+  
 ### Two types of VLSI Design Styles:
 
 ### **VLSI Design Methodology**
