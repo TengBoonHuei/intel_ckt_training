@@ -9,16 +9,17 @@ This repo will be used of deposition of training documentations.
  
 ## Day 1
 ## Theory - Overview of VLSI Design
+
 <details><summary> Chip-to-wafer </summary>
   
 ### Packaged Chip
 
 ### **Chip-to-wafer**
 #### Packaged Chip
-* Die is the central part of chip
+* Die is placed at the center of the chip (package).
+* The interconnecting of die to the external world using wire bonding.
 * Package is to connect the silicon die of the IC to the circuit board
 * Evolution and different types of Packaged Chip, example:
-* Evolution and different types of Packaged Chip, example:  
 ![00](https://user-images.githubusercontent.com/121996016/211218848-2589ce0a-61c6-4ebd-b7cd-7b9c6188c8c0.jpg)
 
   * SIP (System In Package): 
