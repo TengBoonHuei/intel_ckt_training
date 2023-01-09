@@ -68,11 +68,15 @@ This repo will be used of deposition of training documentations.
 ### Two types of VLSI Design Styles:
 
 ### **VLSI Design Methodology**
-#### Despite of different design style, proper functionality, low cost and timely execution is much more important
 #### Two types of VLSI Design Styles:
-1. Field programming gate array (FPGA)
-* faster prototyping and cost-effective, basically use in prototyping and testing
-* typically consists of input/output buffers, array of configurable logic blocks (CLBs) and programmable interconnect
+1. Field-Pragrammable Gate Array (FPGA)
+  * faster prototyping and cost-effective, basically use in prototyping and testing
+  * typically consists of input/output buffers, array of configurable logic blocks (CLBs) and programmable interconnect
+
+2. Application Speciic Intergrated Circuit (ASIC)
+  * Permanent circuitry. Once the application specific circuit is taped-out into silicon, it cannot be changed.
+  * Higher cost as need to start design from scratch. 
+  * More power efficient, power consumption of ASICs can be very minutely controlled and optimized.
    </details>
 
 <details><summary> VLSI Design Quality </summary>
