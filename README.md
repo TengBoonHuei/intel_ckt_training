@@ -38,7 +38,6 @@ This repo will be used of deposition of training documentations.
 ![image](https://user-images.githubusercontent.com/121993909/211232757-c48ace28-45d5-4a7d-9f51-a21b1f451c03.png)
 * Analog and RF
   * Made by custom VLSI flow
-@@ -56,16 +58,19 @@
    </details>
 
 <details><summary> Moore’s Law </summary>
