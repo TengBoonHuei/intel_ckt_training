@@ -23,10 +23,6 @@ This repo will be used of deposition of training documentations.
 * Evolution and different types of Packaged Chip, example:
   ![image](https://user-images.githubusercontent.com/121993909/211232190-d5a756e7-5c60-453d-aa2a-c1f1d014273c.png)
 
-  * SIP (System In Package): 
-    * able to provide more interconnection pins than can be put on a dual in-line or flat package
-    * ![04](https://user-images.githubusercontent.com/121996016/211218901-8f07ae64-801f-49c2-ad1b-ecc0a2f56317.png)
-
 ### Die and Wafer
 #### Die and Wafer
 * generally die size is (1x1)mm or (1x2)mm
@@ -65,7 +61,6 @@ This repo will be used of deposition of training documentations.
 1. Field programming gate array (FPGA)
 * faster prototyping and cost-effective, basically use in prototyping and testing
 * typically consists of input/output buffers, array of configurable logic blocks (CLBs) and programmable interconnect
-@@ -100,8 +105,9 @@
    </details>
 
 <details><summary> VLSI Design Quality </summary>
@@ -77,7 +72,6 @@ This repo will be used of deposition of training documentations.
 1. Testability  
   * Generation of good test vector
   * Availability of good test fixture at speed
-@@ -123,7 +129,8 @@
    </details>
 
 <details><summary> Package Technology </summary>
@@ -87,7 +81,6 @@ This repo will be used of deposition of training documentations.
 * VLSI chips can fail if various packaging constraints and parasitic are not included in the design phase 
 * number of ground planes, power planes and the bonding pads greatly affect the behaviours of on-chip power and ground buses
 * length of bonding wire and lead length of the package can create serious issue  
-@@ -138,7 +145,8 @@
      </details>
 
 <details><summary> CAD Tools </summary>
