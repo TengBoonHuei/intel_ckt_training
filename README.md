@@ -2,7 +2,7 @@
 This repo will be used of deposition of training documentations.
 
 ## Table of contents
-+ **[ Day 1 - Overview of VLSI Design ](https://github.com/xinniteo/Intel_CKT_Training#day-1)**
++ **[ Day 1 - Overview of VLSI Design ](https://github.com/TengBoonHuei/intel_ckt_training#day-1)**
   <details><summary> Theory </summary>
   
   [Theory - Overview of VLSI Design](https://github.com/xinniteo/Intel_CKT_Training/blob/main/README.md#theory---overview-of-vlsi-design)
