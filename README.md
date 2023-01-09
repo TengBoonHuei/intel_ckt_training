@@ -35,7 +35,7 @@ This repo will be used of deposition of training documentations.
 
 
 ### **Overview of Inside the Die**
-![05](https://user-images.githubusercontent.com/121996016/211218924-a502ad35-b6fd-48c1-9249-28adcab0167b.png)
+![image](https://user-images.githubusercontent.com/121993909/211232757-c48ace28-45d5-4a7d-9f51-a21b1f451c03.png)
 * Analog and RF
   * Made by custom VLSI flow
 @@ -56,16 +58,19 @@
