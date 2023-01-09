@@ -36,8 +36,17 @@ This repo will be used of deposition of training documentations.
 
 ### **Overview of Inside the Die**
 ![image](https://user-images.githubusercontent.com/121993909/211232757-c48ace28-45d5-4a7d-9f51-a21b1f451c03.png)
+* Memory & Memory Controller
+  * SRAM or DRAM
+  * Memory Controller
+  
+* Digital
+  * Made by standard cells using semi-custom VLSI design flow.
+  * Eg. Gates, MUX, Decoder, Counters, FSMs
+  
 * Analog and RF
   * Made by custom VLSI flow
+  * Eg. VCO, LDO, Op-Amp, LPF/HPF, ADC/DAC
    </details>
 
 <details><summary> Moore’s Law </summary>
@@ -45,7 +54,7 @@ This repo will be used of deposition of training documentations.
 ### **Moore’s Law**
 
 * Moore’s Law defines the number of transistors in a dense integrated circuit doubles every 2 years
-  * Every two years, the feature size is reduced by 1/sqrt(2) times
+* Every two years, the feature size is reduced by 1/sqrt(2) times
 
    </details>
 
