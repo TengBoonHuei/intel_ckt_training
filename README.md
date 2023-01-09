@@ -20,7 +20,7 @@ This repo will be used of deposition of training documentations.
 * The interconnecting of die to the external world using wire bonding.
 * Package is to connect the silicon die of the IC to the circuit board
 * Evolution and different types of Packaged Chip, example:
-![00](https://user-images.githubusercontent.com/121996016/211218848-2589ce0a-61c6-4ebd-b7cd-7b9c6188c8c0.jpg)
+  ![00](https://user-images.githubusercontent.com/121996016/211218848-2589ce0a-61c6-4ebd-b7cd-7b9c6188c8c0.jpg)
 
   * SIP (System In Package): 
     * able to provide more interconnection pins than can be put on a dual in-line or flat package
