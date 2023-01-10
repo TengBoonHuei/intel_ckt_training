@@ -146,3 +146,21 @@ This repo will be used of deposition of training documentations.
   
   ![image](https://user-images.githubusercontent.com/121993909/211453646-cca9f344-42c6-480d-b121-a4d0f558df7d.png)
 </details>
+
+<details><summary> CMOS Fabrication Process </summary>
+  
+  ### **CMOS Fabrication Process**
+  
+  #### CMOS Fabrication Process
+  1. Wafer Formation (sand-to-silicon)
+    * Controlled amount of impurities are added to the pure molten silicon in a heating crucible.
+    * a seed crystal is dipped into the melt to initiate crystal growth.
+    * the seed are rotated at a certain rate to withdraw the molten silicon vertically to form a fixed diameter ingot.
+    * ingot are then sliced into ~1mm thick wafers.
+  
+  2. Photolitography
+    * The wafer is coated with the photoresist and subjected to selective illumination through the photomask.
+    * A photomask is constructed with chromium covered quartz glass. A UV light source is used to expose the photoresist (exposed area are hardening).
+    * A developer solvent is then used to dissolve the soluble unexposed photoresist, leaving island of insoluble exposed photoresist.
+  
+</details>
