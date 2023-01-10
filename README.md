@@ -184,8 +184,8 @@ This repo will be used of deposition of training documentations.
       
   4. Silicon Dioxide (SiO2) Deposition
       #### Wet Oxidation: oxidizing atmosphere contains water vapor.
-            * Temperature between 900C to 1000C
-            * Rapid process
+           ** Temperature between 900C to 1000C
+           ** Rapid process
       
       #### Dry Oxidation: oxidizing atmosphere with pure oxigen.
             * Temperature ~1200C to achieve acceptable growth rate.
