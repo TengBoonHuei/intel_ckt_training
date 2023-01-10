@@ -165,5 +165,17 @@ This repo will be used of deposition of training documentations.
         ![image](https://user-images.githubusercontent.com/121993909/211456680-2676ea80-8eb8-434c-b140-42276780911f.png)
 
   3. Well & Channel Formation
+      ## 4 CMOS Technology Process
+        * N-well process
+          ![image](https://user-images.githubusercontent.com/121993909/211458587-90e4fdb4-d372-44ec-9403-d651bcf753ef.png)
+
+        * P-well process
+          ![image](https://user-images.githubusercontent.com/121993909/211458630-47d24354-31e0-4151-92c3-f3017092e81b.png)
+
+        * Twin-well process
+          ![image](https://user-images.githubusercontent.com/121993909/211458652-82472e26-341b-4735-bee2-e906be7ddfd9.png)
+
+        * Triple-will process
+          ![image](https://user-images.githubusercontent.com/121993909/211458673-05f294da-a2a1-4048-bfd9-bd940f188c7e.png)
       
 </details>
