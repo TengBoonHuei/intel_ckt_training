@@ -153,10 +153,10 @@ This repo will be used of deposition of training documentations.
   
   #### CMOS Fabrication Process
   1. Wafer Formation (sand-to-silicon)
-    * Controlled amount of impurities are added to the pure molten silicon in a heating crucible.
-    * a seed crystal is dipped into the melt to initiate crystal growth.
-    * the seed are rotated at a certain rate to withdraw the molten silicon vertically to form a fixed diameter ingot.
-    * ingot are then sliced into ~1mm thick wafers.
+      * Controlled amount of impurities are added to the pure molten silicon in a heating crucible.
+      * a seed crystal is dipped into the melt to initiate crystal growth.
+      * the seed are rotated at a certain rate to withdraw the molten silicon vertically to form a fixed diameter ingot.
+      * ingot are then sliced into ~1mm thick wafers.
   
   2. Photolitography
     * The wafer is coated with the photoresist and subjected to selective illumination through the photomask.
