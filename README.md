@@ -182,4 +182,15 @@ This repo will be used of deposition of training documentations.
   
           ![image](https://user-images.githubusercontent.com/121993909/211458673-05f294da-a2a1-4048-bfd9-bd940f188c7e.png)
       
+  4. Silicon Dioxide (SiO2) Deposition
+      ##### Wet Oxidation: oxidizing atmosphere contains water vapor.
+            * Temperature between 900C to 1000C
+            * Rapid process
+      
+      ##### Dry Oxidation: oxidizing atmosphere with pure oxigen.
+            * Temperature ~1200C to achieve acceptable growth rate.
+            * form better quality oxide layer.
+  
+      ##### Atomic Layer Deposition (ALD)
+            * mixing of chemicals on top of the surface to form oxide layer.
 </details>
