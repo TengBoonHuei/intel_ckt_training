@@ -250,7 +250,7 @@ This repo will be used of deposition of training documentations.
     ![image](https://user-images.githubusercontent.com/121993909/211508824-0177af3f-9fc6-4b15-bb96-9e6a31431599.png)
 
   Step 7: Removal of photoresist
-  *
+  * Removal of photoresist
   
     ![image](https://user-images.githubusercontent.com/121993909/211509071-0201e29a-1881-4504-9d86-8457bebe5483.png)
 
