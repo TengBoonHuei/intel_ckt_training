@@ -221,7 +221,7 @@ This repo will be used of deposition of training documentations.
   
   Step 1: Substrate
   * Start the process with P-substrate.
-    ![image](https://user-images.githubusercontent.com/121993909/211505785-f35ec678-d11c-453c-8ba9-0d5776c6d554.png)
+  ![image](https://user-images.githubusercontent.com/121993909/211505785-f35ec678-d11c-453c-8ba9-0d5776c6d554.png)
 
   Step 2: Oxidation
   * Oxidation with high-purity oxygen and hydrogen at 1000C temperature.
