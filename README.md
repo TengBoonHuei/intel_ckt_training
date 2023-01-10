@@ -244,6 +244,7 @@ This repo will be used of deposition of training documentations.
     ![image](https://user-images.githubusercontent.com/121993909/211508824-0177af3f-9fc6-4b15-bb96-9e6a31431599.png)
 
   Step 7: Removal of photoresist
+  
     ![image](https://user-images.githubusercontent.com/121993909/211509071-0201e29a-1881-4504-9d86-8457bebe5483.png)
 
   Step 8: Formation of N-well
@@ -290,6 +291,6 @@ This repo will be used of deposition of training documentations.
   
   Step 18: Metallization
   * Aluminium (Al) or Copper (Cu) deposited on the wafer.
-    ![image](https://user-images.githubusercontent.com/121993909/211515323-38bb6903-a569-46b2-b589-2cdee9031977.png)
+    ![image](https://user-images.githubusercontent.com/121993909/211518849-4a19f47d-c2fa-4ebb-83ea-1bbe9335ddbb.png)
 
 </details>
