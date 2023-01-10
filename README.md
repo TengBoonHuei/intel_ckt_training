@@ -111,6 +111,31 @@ This repo will be used of deposition of training documentations.
 ## Day 2
 ## Theory - Analog VLSI Design Flow & CMOS Manufacturing Process
 
-<details><summary> Analog IC Design Process </summary></details>
+<details><summary> Analog IC Design Process </summary>
 
+### **Analog IC Design Process**
+  
 ![image](https://user-images.githubusercontent.com/121993909/211451557-032a642c-2d99-4425-823c-051fa9349c8f.png)
+  
+#### Electrical Design
+  * Electrical design requires active and passive deice electrical models for:
+    * Creating the design
+    * Verifying the design
+    * Determining the robustness of the design
+
+#### Physical Design
+  * Physical design the the process of representing the electrical design in a layout.
+  * Physical design needs:
+    * Entering various geometries
+    * Folow Design Rule Checks (DRC)
+    * Check Layout versus Schematic (LVS)
+    * Extract Parasitic
+  
+#### Test Design
+  * Test design is the process of coordinating, planning, and implementing the measurement of the analog and integrated circuit performance.
+  * Type of test:
+    * Functional
+    * Parametric
+    * Static
+    * Dynamic
+</details>
