@@ -226,54 +226,67 @@ This repo will be used of deposition of training documentations.
 
   Step 2: Oxidation
   * Oxidation with high-purity oxygen and hydrogen at 1000C temperature.
+  
     ![image](https://user-images.githubusercontent.com/121993909/211506617-c753dc8a-4b44-497e-a399-5af8d536016c.png)
 
   Step 3: Photoresist
   * Foring a layer of light-sensitive polymer that hardens when exposed to light.
+  
     ![image](https://user-images.githubusercontent.com/121993909/211507494-1e0d3c3d-f4d8-4402-b43c-b7768ff05010.png)
 
   Step 4: Masking
   * Photoresist is exposed to UV rays through the n-well mask.
+  
     ![image](https://user-images.githubusercontent.com/121993909/211507742-e66adc40-0d9c-4db4-b382-38909893eb28.png)
 
   Step 5: Photoresist removal
   * A part of the photoresist under unexposed region are removed by using the basic or acidic solution.
+  
     ![image](https://user-images.githubusercontent.com/121993909/211508289-8fe4d504-ad35-47f5-82df-0765973abb2b.png)
 
   Step 6: Removal of SiO2 using acid etching
   * Removal of SiO2 oxidation layer through the open area by using hydrofluoric acid.
+  
     ![image](https://user-images.githubusercontent.com/121993909/211508824-0177af3f-9fc6-4b15-bb96-9e6a31431599.png)
 
   Step 7: Removal of photoresist
+  *
   
     ![image](https://user-images.githubusercontent.com/121993909/211509071-0201e29a-1881-4504-9d86-8457bebe5483.png)
 
   Step 8: Formation of N-well
   * By using ion implantation or diffusion process to form N-well.
+  
     ![image](https://user-images.githubusercontent.com/121993909/211509539-fb589210-54a2-4dfe-a5bc-03626094b17a.png)
 
   Step 9: Removal of SiO2
   * Using the hydrofluoric acid to remove the remaining SiO2.
+  
     ![image](https://user-images.githubusercontent.com/121993909/211509901-f9bf73f6-94f8-47df-ae8d-0325d593c019.png)
 
   Step 10: Deposition of Polysilicon
   * Chemical Vapor Deposition (CVD) process is used to deposit a very thin layer of gate oxide.
   * Followed by deposition of polysilicon layer.
+  
     ![image](https://user-images.githubusercontent.com/121993909/211510643-bd58acef-9abe-4b04-ac94-2a3a35ae3587.png)
 
   Step 11: Removing the layer barring a small area for the "Gate"
   * Except the two small region required for forming the gates of PMOS and NMOS, the remaining layers are stripped off.
+  
     ![image](https://user-images.githubusercontent.com/121993909/211511146-11085dd3-053d-471e-88e9-76f4f1639d2e.png)
 
   Step 12: Oxidation Process
   * Oxidation layer is formed on top of the surface, thin oxide layer at the gate region and the rest are thick oxide layer.
+  
     ![image](https://user-images.githubusercontent.com/121993909/211512114-1437492f-f518-4495-8c70-82cbb379d858.png)
 
   Step 13: Masking and N-diffusion
   * By using masking process to open the small gaps for N-diffusion.
+  
     ![image](https://user-images.githubusercontent.com/121993909/211512655-42e63b28-d756-4813-afe3-d92bb82d5520.png)
 
   * The n-type dopants are diffused or ion implanted to form the NMOS terminal.
+  
     ![image](https://user-images.githubusercontent.com/121993909/211513092-a262785b-5e9c-4d3d-8098-3dd306036399.png)
 
   Step 14: Oxide stripping
@@ -281,17 +294,21 @@ This repo will be used of deposition of training documentations.
   
   Step 15: Masking and P-diffusion.
   * Similar to step 13, the P-diffusion regions are implanted with p-type dopants to form P-MOS terminal.
+  
     ![image](https://user-images.githubusercontent.com/121993909/211514476-20234e1f-f3dc-455b-b8cf-64611de5a9de.png)
 
   Step 16: Thick field oxide formation
   * Forming thick-field oxide in all region except the PMOS and NMOS terminals.
+  
     ![image](https://user-images.githubusercontent.com/121993909/211514947-ba64c7ed-51b9-40cf-931a-2d4ac772d30b.png)
   
   Step 17: Contact creation
+  
     ![image](https://user-images.githubusercontent.com/121993909/211517947-de8ad7af-e7bc-4907-a59d-907ec960632c.png)
   
   Step 18: Metallization
   * Aluminium (Al) or Copper (Cu) deposited on the wafer.
+  
     ![image](https://user-images.githubusercontent.com/121993909/211518849-4a19f47d-c2fa-4ebb-83ea-1bbe9335ddbb.png)
 
 </details>
