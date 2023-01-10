@@ -201,8 +201,16 @@ This repo will be used of deposition of training documentations.
       * Formation of thin gate oxide layer on the surface of the gate region.
   
   7. Gate and Drain/Source Formation
-      * 
+      * Formation of thin gate oxide and thick feild oxide.
+      * Deposition and Patterning polysilicon to create the gates.
+      * Etch away the exposed gate oxide and implant the p-diff and n-diff at where the region of p/n channels.
+  
   8. Contacts and Metallization
+      * Contact cuts are made to source, drain and gate according to the contact mask. 
+  
   9. Passivation
+      * Adding a protective glass layer that prevents the ingress of contaminants.
+  
   10. Metrology
+      * A process of measuring the parameters like the photomask pattern, critical dimension (CD), and image placement are matching between all the metal layers.
 </details>
