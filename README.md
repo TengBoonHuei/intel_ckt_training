@@ -184,16 +184,25 @@ This repo will be used of deposition of training documentations.
       
   4. Silicon Dioxide (SiO2) Deposition
       #### Wet Oxidation: oxidizing atmosphere contains water vapor.
-  
-         * Temperature between 900C to 1000C
-         * Rapid process
+        * Temperature between 900C to 1000C
+        * Rapid process
       
       #### Dry Oxidation: oxidizing atmosphere with pure oxigen.
-  
-         * Temperature ~1200C to achieve acceptable growth rate.
-         * form better quality oxide layer.
+        * Temperature ~1200C to achieve acceptable growth rate.
+        * form better quality oxide layer.
   
       #### Atomic Layer Deposition (ALD)
+        * mixing of chemicals on top of the surface to form oxide layer.
   
-         * mixing of chemicals on top of the surface to form oxide layer.
+  5. Isolation
+      * Individual devices in CMOS process need to be isolated from one another to prevent unexpected interactions.
+  
+  6. Gate Oxide Creation
+      * Formation of thin gate oxide layer on the surface of the gate region.
+  
+  7. Gate and Drain/Source Formation
+      * 
+  8. Contacts and Metallization
+  9. Passivation
+  10. Metrology
 </details>
