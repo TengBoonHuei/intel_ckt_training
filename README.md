@@ -159,8 +159,11 @@ This repo will be used of deposition of training documentations.
       * ingot are then sliced into ~1mm thick wafers.
   
   2. Photolitography
-    * The wafer is coated with the photoresist and subjected to selective illumination through the photomask.
-    * A photomask is constructed with chromium covered quartz glass. A UV light source is used to expose the photoresist (exposed area are hardening).
-    * A developer solvent is then used to dissolve the soluble unexposed photoresist, leaving island of insoluble exposed photoresist.
-  
+      * The wafer is coated with the photoresist and subjected to selective illumination through the photomask.
+      * A photomask is constructed with chromium covered quartz glass. A UV light source is used to expose the photoresist (exposed area are hardening).
+      * A developer solvent is then used to dissolve the soluble unexposed photoresist, leaving island of insoluble exposed photoresist.
+        ![image](https://user-images.githubusercontent.com/121993909/211456680-2676ea80-8eb8-434c-b140-42276780911f.png)
+
+  3. Well & Channel Formation
+      
 </details>
