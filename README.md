@@ -303,7 +303,8 @@ This repo will be used of deposition of training documentations.
     ![image](https://user-images.githubusercontent.com/121993909/211514947-ba64c7ed-51b9-40cf-931a-2d4ac772d30b.png)
   
   Step 17: Contact creation
-  *
+  * Contact creation
+  
     ![image](https://user-images.githubusercontent.com/121993909/211517947-de8ad7af-e7bc-4907-a59d-907ec960632c.png)
   
   Step 18: Metallization
