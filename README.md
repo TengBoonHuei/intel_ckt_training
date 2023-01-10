@@ -106,7 +106,8 @@ This repo will be used of deposition of training documentations.
 * essential for timely development of integrated circuits
 * CAD technology for VLSI chip design can be categorized into the following areas:
     * High-level synthesis
-
+</details>
+  
 ## Day 2
 ## Theory - Analog VLSI Design Flow & CMOS Manufacturing Process
 
