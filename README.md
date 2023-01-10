@@ -111,3 +111,6 @@ This repo will be used of deposition of training documentations.
 ## Day 2
 ## Theory - Analog VLSI Design Flow & CMOS Manufacturing Process
 
+<details><summary> Analog IC Design Process </summary></details>
+
+![image](https://user-images.githubusercontent.com/121993909/211451557-032a642c-2d99-4425-823c-051fa9349c8f.png)
