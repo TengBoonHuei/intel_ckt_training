@@ -313,3 +313,9 @@ This repo will be used of deposition of training documentations.
     ![image](https://user-images.githubusercontent.com/121993909/211518849-4a19f47d-c2fa-4ebb-83ea-1bbe9335ddbb.png)
 
 </details>
+
+<details><summary> Assignment </summary>
+
+### ** Assignment: Fabrication Process & Layout **
+
+</details>
