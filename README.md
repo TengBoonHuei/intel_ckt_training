@@ -33,8 +33,6 @@ This repo will be used of deposition of training documentations.
 
 <details><summary> Chip-to-wafer </summary>
   
-### Packaged Chip
-
 ### **Chip-to-wafer**
 #### Packaged Chip
 * Die is placed at the center of the chip (package).
