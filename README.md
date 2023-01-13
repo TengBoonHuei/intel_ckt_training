@@ -69,12 +69,10 @@ This repo will be used of deposition of training documentations.
 
 <details><summary> Moore’s Law </summary>
 
-### **Moore’s Law**
-
 * Moore’s Law defines the number of transistors in a dense integrated circuit doubles every 2 years
 * Every two years, the feature size is reduced by 1/sqrt(2) times
 
-   </details>
+</details>
 
 <details><summary> VLSI Design Methodology </summary>
 
