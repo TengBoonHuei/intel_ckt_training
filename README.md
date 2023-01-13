@@ -120,12 +120,10 @@ This repo will be used of deposition of training documentations.
 ## Assignments
   
 <details><summary> Prerequisite Assignments </summary>
-  
-### **Prerequisite Assignments**
-* RC Circuit ()
-* Digital Circuits ()
-* Electrical Circuits ()
-* Semiconductor Devices ()
+  * RC Circuit ()
+  * Digital Circuits ()
+  * Electrical Circuits ()
+  * Semiconductor Devices ()
   
   </details>
   
