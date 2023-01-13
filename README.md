@@ -129,7 +129,7 @@ This repo will be used of deposition of training documentations.
   
   </details>
   
-## Assignments
+## Assignments (Day 2)
   
 <details><summary> Prerequisite Assignments </summary>
   
