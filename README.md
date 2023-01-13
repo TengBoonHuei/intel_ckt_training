@@ -76,7 +76,7 @@ This repo will be used of deposition of training documentations.
 
 <details><summary> VLSI Design Methodology </summary>
 
-Critical factors of design execution:
+### Critical factors of design execution:
   
   * functionality, performance & quality
   * low cost
