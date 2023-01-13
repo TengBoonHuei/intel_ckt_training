@@ -101,10 +101,11 @@ Two types of VLSI Design Styles:
 
 ### **VLSI Design Quality**
 #### Importamt criteria to measure the design quality:
-1. Testability  
-  * Generation of good test vector
-  * Availability of good test fixture at speed
-   </details>
+1. Testability
+  
+    * Generation of good test vector
+    * Availability of good test fixture at speed
+</details>
 
 <details><summary> Package Technology </summary>
 
