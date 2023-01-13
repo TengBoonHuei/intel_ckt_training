@@ -82,16 +82,19 @@ Critical factors of design execution:
   * faster time-to-market
   
 ### **VLSI Design Methodology**
+  
 Two types of VLSI Design Styles:
+  
 1. Field-Pragrammable Gate Array (FPGA)
-  * faster prototyping and cost-effective, basically use in prototyping and testing
-  * typically consists of input/output buffers, array of configurable logic blocks (CLBs) and programmable interconnect
+    * faster prototyping and cost-effective, basically use in prototyping and testing
+    * typically consists of input/output buffers, array of configurable logic blocks (CLBs) and programmable interconnect
 
 2. Application Speciic Intergrated Circuit (ASIC)
-  * Permanent circuitry. Once the application specific circuit is taped-out into silicon, it cannot be changed.
-  * Higher cost as need to start design from scratch. 
-  * More power efficient, power consumption of ASICs can be very minutely controlled and optimized.
-   </details>
+    * Permanent circuitry. Once the application specific circuit is taped-out into silicon, it cannot be changed.
+    * Higher cost as need to start design from scratch. 
+    * More power efficient, power consumption of ASICs can be very minutely controlled and optimized.
+  
+</details>
 
 <details><summary> VLSI Design Quality </summary>
 
