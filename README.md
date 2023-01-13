@@ -129,14 +129,15 @@ This repo will be used of deposition of training documentations.
   
   </details>
   
-### <details> ** <summary> Assignment </summary> **
+### <details> ** <summary> Assignment 
   
   * [RC Circuit]()
   * [Digital Circuits](https://drive.google.com/file/d/1Ww-4ZigmUcCJQGWNldrs159sRDHLK9hX/view?usp=share_link)
   * [Electrical Circuits]()
   * [Semiconductor Devices]()
   
-</details> **
+  </summary> **
+</details>
   
 ## Day 2
 ## Theory - Analog VLSI Design Flow & CMOS Manufacturing Process
