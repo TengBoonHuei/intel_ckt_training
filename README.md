@@ -110,19 +110,21 @@ This repo will be used of deposition of training documentations.
 
 <details><summary> CAD Tools </summary>
 
-
 ### **CAD Tools**
 * essential for timely development of integrated circuits
 * CAD technology for VLSI chip design can be categorized into the following areas:
     * High-level synthesis
+  
   </details>
   
 <details><summary> Assignments </summary>
+  
 ### **Assignments**
 * RC Circuit ()
 * Digital Circuits ()
 * Electrical Circuits ()
 * Semiconductor Devices ()
+  
   </details>
   
 ## Day 2
