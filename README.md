@@ -82,7 +82,7 @@ This repo will be used of deposition of training documentations.
 <details><summary> VLSI Design Methodology </summary>
 
 ### Critical factors of design execution:
-  * functionality, perormance & quality
+  * functionality, performance & quality
   * low cost
   * faster time-to-market
   
@@ -101,8 +101,6 @@ This repo will be used of deposition of training documentations.
    </details>
 
 <details><summary> VLSI Design Quality </summary>
-
-### Importamt criteria to measure the design quality:
 
 ### **VLSI Design Quality**
 #### Importamt criteria to measure the design quality:
