@@ -76,15 +76,13 @@ This repo will be used of deposition of training documentations.
 
 <details><summary> VLSI Design Methodology </summary>
 
-### Critical factors of design execution:
+Critical factors of design execution:
   * functionality, performance & quality
   * low cost
   * faster time-to-market
   
-### Two types of VLSI Design Styles:
-
 ### **VLSI Design Methodology**
-#### Two types of VLSI Design Styles:
+Two types of VLSI Design Styles:
 1. Field-Pragrammable Gate Array (FPGA)
   * faster prototyping and cost-effective, basically use in prototyping and testing
   * typically consists of input/output buffers, array of configurable logic blocks (CLBs) and programmable interconnect
