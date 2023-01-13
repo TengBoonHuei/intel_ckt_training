@@ -7,6 +7,7 @@ This repo will be used of deposition of training documentations.
   
   [Theory - Overview of VLSI Design](https://github.com/TengBoonHuei/intel_ckt_training/blob/main/README.md#theory---overview-of-vlsi-design)
   
+  
   <details><summary> Assignments </summary>
     
   [Assignments - Digital Circuit, Electrical Circuit, RC Circuit, Semiconductor Devices]()
