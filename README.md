@@ -11,7 +11,7 @@ This repo will be used of deposition of training documentations.
     
   <details><summary> Assignments </summary>
     
-  [Assignments - Prerequisite Assignments](https://github.com/TengBoonHuei/intel_ckt_training/blob/main/README.md#prerequisite-assignments)
+  [Assignments - Prerequisite Assignments](https://github.com/TengBoonHuei/intel_ckt_training/blob/main/README.md#assignments)
  
   </details>
   
@@ -120,10 +120,11 @@ This repo will be used of deposition of training documentations.
 ## Assignments
   
 <details><summary> Prerequisite Assignments </summary>
-  * RC Circuit ()
-  * Digital Circuits ()
-  * Electrical Circuits ()
-  * Semiconductor Devices ()
+  
+  * [RC Circuit]()
+  * [Digital Circuits]()
+  * [Electrical Circuits]()
+  * [Semiconductor Devices]()
   
   </details>
   
