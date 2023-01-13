@@ -14,6 +14,8 @@ This repo will be used of deposition of training documentations.
   [Assignments - Prerequisite Assignments](https://github.com/TengBoonHuei/intel_ckt_training/blob/main/README.md#assignments)
  
   </details>
+
++ **[Day 2 - ](https://github.com/TengBoonHuei/intel_ckt_training/blob/main/README.md#day-2)**
   
   
 ## Day 1
