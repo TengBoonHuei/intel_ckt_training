@@ -117,9 +117,9 @@ This repo will be used of deposition of training documentations.
   
   </details>
   
-<details><summary> Prerequisite Assignments </summary>
+<details><summary> Assignments </summary>
   
-### **Assignments**
+### **Prerequisite Assignments**
 * RC Circuit ()
 * Digital Circuits ()
 * Electrical Circuits ()
