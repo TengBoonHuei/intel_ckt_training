@@ -42,13 +42,12 @@ This repo will be used of deposition of training documentations.
 * Evolution and different types of Packaged Chip, example:
   ![image](https://user-images.githubusercontent.com/121993909/211232190-d5a756e7-5c60-453d-aa2a-c1f1d014273c.png)
 
-### Die and Wafer
 #### Die and Wafer
 * generally die size is (1x1)mm or (1x2)mm
 * wafer diameter is around 12 inch ~ 300 mm
 * a single wafer contains 10’s of thousands die  
 
-   </details>
+</details>
 
 <details><summary> Overview of Inside the Die </summary>
 
