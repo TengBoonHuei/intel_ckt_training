@@ -185,7 +185,7 @@ This repo will be used of deposition of training documentations.
         ![image](https://user-images.githubusercontent.com/121993909/211456680-2676ea80-8eb8-434c-b140-42276780911f.png)
 
   3. Well & Channel Formation
-      #### 4 CMOS Technology Process
+      #### 4 types of CMOS Technology Process
         * N-well process
   
           ![image](https://user-images.githubusercontent.com/121993909/211458587-90e4fdb4-d372-44ec-9403-d651bcf753ef.png)
