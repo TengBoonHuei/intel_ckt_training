@@ -24,7 +24,7 @@ This repo will be used of deposition of training documentations.
   
   <details><summary> Assignment </summary>
   
-  [Assignment - Draw Circuit from Layouts](https://github.com/TengBoonHuei/intel_ckt_training/blob/main/README.md#assignment)
+  [Assignment - Draw Circuit from Layouts](https://github.com/TengBoonHuei/intel_ckt_training/blob/main/README.md#assignment---day-2)
   
   </details>  
   
