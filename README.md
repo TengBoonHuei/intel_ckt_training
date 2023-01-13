@@ -117,6 +117,8 @@ This repo will be used of deposition of training documentations.
   
   </details>
   
+## Assignments
+  
 <details><summary> Prerequisite Assignments </summary>
   
 ### **Prerequisite Assignments**
