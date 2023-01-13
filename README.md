@@ -132,7 +132,7 @@ This repo will be used of deposition of training documentations.
 <details><summary> Assignment </summary>
 
 ### **Prerequisite Assignments**
-  * [RC Circuit]()
+  * [RC Circuit](https://drive.google.com/file/d/1x5PnTjW8ha-spVDT3cuYXojVoWyKdVjv/view?usp=share_link)
   * [Digital Circuits](https://drive.google.com/file/d/1Ww-4ZigmUcCJQGWNldrs159sRDHLK9hX/view?usp=share_link)
   * [Electrical Circuits]()
   * [Semiconductor Devices]()
