@@ -5,11 +5,9 @@ This repo will be used of deposition of training documentations.
 + **[ Day 1 - Overview of VLSI Design ](https://github.com/TengBoonHuei/intel_ckt_training#day-1)**
   <details><summary> Theory </summary>
   [Theory - Overview of VLSI Design](https://github.com/TengBoonHuei/intel_ckt_training/blob/main/README.md#theory---overview-of-vlsi-design)
-  </details>
   
   <details><summary> Assignments </summary>
   [Assignments] - Digital Circuit, Electrical Circuit, RC Circuit, Semiconductor Devices ()
-  </details>
  
 ## Day 1
 ## Theory - Overview of VLSI Design
