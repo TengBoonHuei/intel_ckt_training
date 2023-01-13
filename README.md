@@ -18,13 +18,13 @@ This repo will be used of deposition of training documentations.
 + **[Day 2 - Analog VLSI Design Flow & CMOS Manufacturing Process](https://github.com/TengBoonHuei/intel_ckt_training/blob/main/README.md#day-2)**
   <details><summary> Theory </summary>
   
-  [Theory - Analog VLSI Design Flow & CMOS Manufacturing Process]()
+  [Theory - Analog VLSI Design Flow & CMOS Manufacturing Process](https://github.com/TengBoonHuei/intel_ckt_training/blob/main/README.md#theory---analog-vlsi-design-flow--cmos-manufacturing-process)
   
   </details>
   
   <details><summary> Assignment </summary>
   
-  [Assignment - ]()
+  [Assignment - Draw Circuit from Layouts]()
   
   </details>  
   
