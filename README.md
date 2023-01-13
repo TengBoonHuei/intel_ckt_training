@@ -334,9 +334,9 @@ This repo will be used of deposition of training documentations.
 
 </details>
 
+## Assignment
 <details><summary> Assignment </summary>
 
-  ### **Assignment: Fabrication Process & Layout**
   * [Fabrication Process & Layout](https://drive.google.com/file/d/1CxdaA5OUX5YnXoWtph7iwB4jn6LFVT-K/view?usp=share_link)
 
 </details>
