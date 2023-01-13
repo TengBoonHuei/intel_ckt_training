@@ -6,6 +6,7 @@ This repo will be used of deposition of training documentations.
   <details><summary> Theory </summary>
   
   [Theory - Overview of VLSI Design](https://github.com/TengBoonHuei/intel_ckt_training/blob/main/README.md#theory---overview-of-vlsi-design)
+  [Assignments] - Digital Circuit, Electrical Circuit, RC Circuit, Semiconductor Devices ()
  
 ## Day 1
 ## Theory - Overview of VLSI Design
@@ -107,6 +108,12 @@ This repo will be used of deposition of training documentations.
 * CAD technology for VLSI chip design can be categorized into the following areas:
     * High-level synthesis
 </details>
+
+### **Assignments**
+* RC Circuit ()
+* Digital Circuits ()
+* Electrical Circuits ()
+* Semiconductor Devices ()
   
 ## Day 2
 ## Theory - Analog VLSI Design Flow & CMOS Manufacturing Process
@@ -317,6 +324,6 @@ This repo will be used of deposition of training documentations.
 <details><summary> Assignment </summary>
 
   ### **Assignment: Fabrication Process & Layout**
-  * https://drive.google.com/file/d/1CxdaA5OUX5YnXoWtph7iwB4jn6LFVT-K/view?usp=share_link
+  * Fabrication Process & Layout (https://drive.google.com/file/d/1CxdaA5OUX5YnXoWtph7iwB4jn6LFVT-K/view?usp=share_link)
 
 </details>
