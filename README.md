@@ -384,6 +384,63 @@ Two types of VLSI Design Styles:
   
   #### Deep Submicron (DSM) CMOS Fabrication Process
   
+  Step 1 - P/N-Well Creation
+    * p-well & n-well implantation followed by deep diffusion
+      
+      ![image](https://user-images.githubusercontent.com/121993909/212548760-ecde54b4-105e-4a15-8cf4-25ac564f580e.png)
+
+  Step 2 - Sallow Trench Isolation
+    * Sallow trench isolation (STI) electrically isolates one region/transistor from another.
+  
+      ![image](https://user-images.githubusercontent.com/121993909/212548976-afd16819-5a27-44bd-a74c-5e38ee1f8d1f.png)
+
+  Step 3 - Treshold Shift and Anti-Punch through Implants
+    * P threshold implant is used to make the NMOS harder to invert and the PMOS easier resulting in threshold voltages balance around zero volts.
+    * An implant can be applied to create a higher-doped region beneath the channels to prevent the punch-through from the drain depletion region extending to source depletion region.
+   
+      ![image](https://user-images.githubusercontent.com/121993909/212549362-eee30c73-bcf0-473c-a7be-82a7ef1905fa.png)
+
+  Step 4 - Thin Oxide and Polysilicon Gate
+    * A thin oxide is deposited followed by polysilicon. These layers are removed where they are not wanted.
+  
+      ![image](https://user-images.githubusercontent.com/121993909/212549498-392c9bac-716d-4d5e-9778-5aba08f2448e.png)
+
+  Step 5 - Lightly Doped Source and Drain
+    * A lightly-doped implant is used to create a lightly-doped source and drain next to the channel of the MOSFETs.
+  
+      ![image](https://user-images.githubusercontent.com/121993909/212549609-38b3032b-745c-4b8c-86f5-963f4a3c68e9.png)
+
+  Step 6 - Sidewall Spacer
+    * Deposit sidewall spacer to prevent the part of the source and drain next to the channel from being heavily doped.
+  
+      ![image](https://user-images.githubusercontent.com/121993909/212549850-90165d87-5757-40e0-b253-53bb977cb73f.png)
+
+  Step 7 - Implantation of Heavily Doped Source and Drain
+    * Heavily dope provides the complete sources and drains
+    * Also forms an ohmic contact into the well and substrate.
+  
+      ![image](https://user-images.githubusercontent.com/121993909/212550051-16b57aa9-7ca5-45d4-bda0-a2c6bd5c26b9.png)
+
+  Step 8 - Siliciding (Silicide and Polycide)
+    * This step is to reduce the resistance of the bulks diffusion and polysilicon and forms an ohmic contact with material on which it is deposited.
+  
+      ![image](https://user-images.githubusercontent.com/121993909/212550227-b0c6a480-ac0f-4c2e-836a-a673cebed36d.png)
+
+  Step 9 - Intermediate Oxide Layer
+    * An oxide layer is used to cover the transistors and to planarize the surface.
+  
+      ![image](https://user-images.githubusercontent.com/121993909/212550368-8ca050a4-08df-419b-83dd-fb7d95ce9668.png)
+
+  Step 10 - First Level Metal
+    * Tungsten(W) plug are built through the lower intermidiate oxide layer to provide contact between the devices, wells, and substrate to the first-level metal.
+  
+      ![image](https://user-images.githubusercontent.com/121993909/212550556-1c104747-6092-4f0b-80fa-7ec01ad77d74.png)
+  
+  Step 11 - Second Level Metal
+    * Repeat the previos step to built second & third-level metal.
+  
+      ![image](https://user-images.githubusercontent.com/121993909/212550674-d0710046-b499-4f82-befc-767d6b529423.png)
+
 </details>
 
 <details><summary> Assignment </summary>
