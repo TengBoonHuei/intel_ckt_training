@@ -373,11 +373,17 @@ Two types of VLSI Design Styles:
       * Limitation: bird's beak effect causing lost in surface area.
       * Advantage: simple process flow, high oxide quality
 
-  2. Sallow Trench Isolation:
+  2. Sallow Trench Isolation (STI):
       * Preffered isolation technique for deep-submicron process.
       * Advantage: avoids Bird's beak shape characteristic and allows forming a smaller isolation region.
       * Disadvantage: more complicated technique and large number of process steps.
 
+</details>
+
+<details><summary> DSM CMOS Fabrication Process </summary>
+  
+  ### Deep Submicron (DSM) CMOS Fabrication Process
+  
 </details>
 
 <details><summary> Assignment </summary>
