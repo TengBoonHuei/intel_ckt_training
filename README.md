@@ -378,7 +378,6 @@ Two types of VLSI Design Styles:
       * Advantage: avoids Bird's beak shape characteristic and allows forming a smaller isolation region.
       * Disadvantage: more complicated technique and large number of process steps.
 
-  
 </details>
 
 <details><summary> Assignment </summary>
