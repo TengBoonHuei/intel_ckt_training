@@ -437,8 +437,9 @@ Two types of VLSI Design Styles:
       ![image](https://user-images.githubusercontent.com/121993909/212550556-1c104747-6092-4f0b-80fa-7ec01ad77d74.png)
   
   Step 11 - Second Level Metal
-    * Repeat the previos step to built second & third-level metal.
-      [image](https://user-images.githubusercontent.com/121993909/212550674-d0710046-b499-4f82-befc-767d6b529423.png)
+  * Repeat the previos step to built second & third-level metal.
+  
+      ![image](https://user-images.githubusercontent.com/121993909/212550674-d0710046-b499-4f82-befc-767d6b529423.png)
 
 </details>
 
