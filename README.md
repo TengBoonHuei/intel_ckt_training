@@ -398,12 +398,12 @@ Two types of VLSI Design Styles:
     * P threshold implant is used to make the NMOS harder to invert and the PMOS easier resulting in threshold voltages balance around zero volts.
     * An implant can be applied to create a higher-doped region beneath the channels to prevent the punch-through from the drain depletion region extending to source depletion region.
    
-      ![image](https://user-images.githubusercontent.com/121993909/212549362-eee30c73-bcf0-473c-a7be-82a7ef1905fa.png)
+     + ![image](https://user-images.githubusercontent.com/121993909/212549362-eee30c73-bcf0-473c-a7be-82a7ef1905fa.png)
 
   Step 4 - Thin Oxide and Polysilicon Gate
     * A thin oxide is deposited followed by polysilicon. These layers are removed where they are not wanted.
   
-      ![image](https://user-images.githubusercontent.com/121993909/212549498-392c9bac-716d-4d5e-9778-5aba08f2448e.png)
+     + ![image](https://user-images.githubusercontent.com/121993909/212549498-392c9bac-716d-4d5e-9778-5aba08f2448e.png)
 
   Step 5 - Lightly Doped Source and Drain
     * A lightly-doped implant is used to create a lightly-doped source and drain next to the channel of the MOSFETs.
