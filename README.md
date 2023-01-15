@@ -366,7 +366,7 @@ Two types of VLSI Design Styles:
 ## Theory - CMOS Fabrication Process In DSM & UDSM Technology
 <details><summary> Isolation Process </summary>
   
-  LOCOS vs STI Isolation Technique
+  ### LOCOS vs STI Isolation Technique
   
   1. Local Oxidation of Silicon (LOCOS) Isolation:
       * Traditional isolation technique used in submicron process.
