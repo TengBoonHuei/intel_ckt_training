@@ -443,6 +443,12 @@ Two types of VLSI Design Styles:
 
 </details>
 
+<details><summary> Diferences between Submicron, DSM, UDSM </summary>
+  
+  ![image](https://user-images.githubusercontent.com/121993909/212551124-7807e4aa-a4e8-49ec-8e5c-a2a3d9408756.png)
+
+</details>
+
 <details><summary> Assignment </summary>
   
   #### DSM & UDSM Technology
