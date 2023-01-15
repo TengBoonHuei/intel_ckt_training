@@ -37,7 +37,7 @@ This repo will be used of deposition of training documentations.
   
   <details><summary> Assignment </summary>
   
-  [Assignment - DSM & UDSM Technology]()
+  [Assignment - DSM & UDSM Technology](https://github.com/TengBoonHuei/intel_ckt_training/blob/main/README.md#dsm--udsm-technology)
   
   </details>
   
