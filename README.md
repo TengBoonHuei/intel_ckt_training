@@ -364,7 +364,20 @@ Two types of VLSI Design Styles:
 
 ## Day 3
 ## Theory - CMOS Fabrication Process In DSM & UDSM Technology
-<details><summary> LOCOS vs STI isolation process </summary>
+<details><summary> Isolation Process </summary>
+  
+  LOCOS vs STI Isolation Technique
+  
+  1. Local Oxidation of Silicon (LOCOS) Isolation:
+      * Traditional isolation technique used in submicron process.
+      * Limitation: bird's beak effect causing lost in surface area.
+      * Advantage: simple process flow, high oxide quality
+
+  2. Sallow Trench Isolation:
+      * Preffered isolation technique for deep-submicron process.
+      * Advantage: avoids Bird's beak shape characteristic and allows forming a smaller isolation region.
+      * Disadvantage: more complicated technique and large number of process steps.
+
   
 </details>
 
