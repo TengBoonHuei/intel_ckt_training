@@ -31,7 +31,7 @@ This repo will be used of deposition of training documentations.
 + **[Day 3 - CMOS Fabrication Process in DSM & UDSM Technology]()**
   <details><summary> Theory </summary>
   
-  [Theory - CMOS Fabrication Process in DSM & UDSM Technology]()
+  [Theory - CMOS Fabrication Process in DSM & UDSM Technology](https://github.com/TengBoonHuei/intel_ckt_training/blob/main/README.md#theory---cmos-fabrication-process-in-dsm--udsm-technology)
   
   </details>
   
