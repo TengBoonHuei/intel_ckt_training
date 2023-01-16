@@ -50,7 +50,7 @@ This repo will be used of deposition of training documentations.
   
   <details><summary> Assignment </summary>
   
-  [Assignment - Metal-Oxide-Semiconductor Structure]()
+  [Assignment - Metal-Oxide-Semiconductor Structure](https://github.com/TengBoonHuei/intel_ckt_training/blob/main/README.md#metal-oxide-semiconductor-mos-structure)
   
   </details>
   
