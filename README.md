@@ -44,7 +44,7 @@ This repo will be used of deposition of training documentations.
 + **[Day 4 - Metal-Oxide-Semicondutor Structure](https://github.com/TengBoonHuei/intel_ckt_training#day-4)**
   <details><summary> Theory </summary>
   
-  [Theory - Metal-Oxide-Semiconductor Structure](https://github.com/TengBoonHuei/intel_ckt_training/blob/main/README.md#theory---metal-oxide_semiconductor-mos-structure)
+  [Theory - Metal-Oxide-Semiconductor Structure](https://github.com/TengBoonHuei/intel_ckt_training/blob/main/README.md#theory---metal-oxide-semiconductor-mos-structure)
   
   </details>
   
