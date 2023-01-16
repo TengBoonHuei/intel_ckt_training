@@ -517,7 +517,12 @@ Two types of VLSI Design Styles:
   
   #### Non-Ideal MOS Structure Effects
   1. Effect of fixed charge, Qf
+    * Fixed charge is the charge has no movement and will not vary with voltage.
+    * Applying negative voltage at the gate, the surface charge at the silicon will be zero (flat-band condition).
+  
   2. Effect of metal-semiconductor work function different, ɸms
+    * Both metal and semiondutor are made with different type of materials, hence they have different work functions.
+    * Work function means the minimum energy required to remove an eletron from a solid material into a point the the vacuum.
   
 </details>
 
