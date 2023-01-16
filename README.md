@@ -476,21 +476,39 @@ Two types of VLSI Design Styles:
   
   #### Metal-Oxide-Semiconductor (MOS)
   * MOS is simply a capacitor built up by a dielectric layer which sandwiched between the metal and the semiconductor layers.
+  
     ![image](https://user-images.githubusercontent.com/121993909/212722507-90274be6-b040-4b30-b055-a5751f8bd84b.png)
   
   * MOS do not have current-voltage relationship, but only with capacitance-voltage relationship.
   * At V(gate) > V(threshold), the capacitance is inverse proportional to frequency.
+  
     ![image](https://user-images.githubusercontent.com/121993909/212722648-e4ecf3c4-96f5-4f62-bd63-9ec7d23b2fcf.png)
   
   #### Ideal MOS Junction / Capacitor
   * Ideal characteristics
+  
     ![image](https://user-images.githubusercontent.com/121993909/212722726-53937105-0b60-4ea5-a0b7-77534974ce33.png)
 
   #### Three deference MOS operation modes
-  1. Acumulation Mode (V < 0)
+  1. Acumulation Mode, V < 0
   * When negative voltage appled at the Gate terminal, causing the accumulation of majority carrier (holes) at the interace.
   * Charge at the surface is directly proportional to the negative voltage.
+                             
     ![image](https://user-images.githubusercontent.com/121993909/212722239-0ed35f62-d7f3-482a-912e-8fee7857def9.png)
+                       
+  2. Depletion Mode, 0 < V < Vt
+  * Semiconductor surace form a depletion region, the surface charge is negative and gradually increase with inrease of voltage.
+  * The voltage at which the surface carrier concentration is exactly equal to bulk carrier conentration is called weak inversion/treshold voltage.
+  * This is the inversion point where the depletion mode ends and strong inversion started.
+    
+    ![image](https://user-images.githubusercontent.com/121993909/212726227-4817718c-21da-4a22-8453-6a0dcf92bca1.png)
+
+  3. Strong Inversion Mode, V >= Vt
+  * At threshold voltage, a channel form at the surface of the semiconductor due to inversion charge.
+  * Before threshold voltage, the charge comes from negatively charged ionized acceptor.
+  * After threshold voltage, more charge comes from the electrons rather than depleting the holes.
+  
+    ![image](https://user-images.githubusercontent.com/121993909/212727418-e3a47033-3150-49ad-8395-c1721130b1da.png)
 
   
 </details>
