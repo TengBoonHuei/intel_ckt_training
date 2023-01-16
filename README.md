@@ -471,10 +471,27 @@ Two types of VLSI Design Styles:
 </details>
 
 ## Day 4
-## Theory - Metal-Oxide_semiconductor (MOS) Structure
-<details><summary> 1 </summary>
+## Theory - Metal-Oxide-Semiconductor (MOS) Structure
+<details><summary> Ideal MOS Structure </summary>
   
-  #### Title 1
+  #### Metal-Oxide-Semiconductor (MOS)
+  * MOS is simply a capacitor built up by a dielectric layer which sandwiched between the metal and the semiconductor layers.
+    ![image](https://user-images.githubusercontent.com/121993909/212714939-a593bdf7-e344-4c89-afea-3fed5f02908f.png)
+  
+  * MOS do not have current-voltage relationship, but only with capacitance-voltage relationship.
+  * At V(gate) > V(threshold), the capacitance is inverse proportional to frequency.
+    ![image](https://user-images.githubusercontent.com/121993909/212714198-3cace9de-c6b1-42a2-a640-43e8d2bbc0ff.png)
+  
+  #### Ideal MOS Junction / Capacitor
+  * Ideal characteristics
+    ![image](https://user-images.githubusercontent.com/121993909/212715553-5ef1430e-fd3e-402c-ac60-8f5e7978d8aa.png)
+
+  #### Three deference MOS operation modes
+  1. Acumulation Mode (V < 0)
+  * When negative voltage appled at the Gate terminal, causing the accumulation of majority carrier (holes) at the interace.
+  * Charge at the surface is directly proportional to the negative voltage.
+    ![image](https://user-images.githubusercontent.com/121993909/212722239-0ed35f62-d7f3-482a-912e-8fee7857def9.png)
+
   
 </details>
 
