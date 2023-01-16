@@ -476,15 +476,15 @@ Two types of VLSI Design Styles:
   
   #### Metal-Oxide-Semiconductor (MOS)
   * MOS is simply a capacitor built up by a dielectric layer which sandwiched between the metal and the semiconductor layers.
-    ![image](https://user-images.githubusercontent.com/121993909/212714939-a593bdf7-e344-4c89-afea-3fed5f02908f.png)
+    ![image](https://user-images.githubusercontent.com/121993909/212722507-90274be6-b040-4b30-b055-a5751f8bd84b.png)
   
   * MOS do not have current-voltage relationship, but only with capacitance-voltage relationship.
   * At V(gate) > V(threshold), the capacitance is inverse proportional to frequency.
-    ![image](https://user-images.githubusercontent.com/121993909/212714198-3cace9de-c6b1-42a2-a640-43e8d2bbc0ff.png)
+    ![image](https://user-images.githubusercontent.com/121993909/212722648-e4ecf3c4-96f5-4f62-bd63-9ec7d23b2fcf.png)
   
   #### Ideal MOS Junction / Capacitor
   * Ideal characteristics
-    ![image](https://user-images.githubusercontent.com/121993909/212715553-5ef1430e-fd3e-402c-ac60-8f5e7978d8aa.png)
+    ![image](https://user-images.githubusercontent.com/121993909/212722726-53937105-0b60-4ea5-a0b7-77534974ce33.png)
 
   #### Three deference MOS operation modes
   1. Acumulation Mode (V < 0)
