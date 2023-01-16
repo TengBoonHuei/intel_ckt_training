@@ -513,9 +513,11 @@ Two types of VLSI Design Styles:
   
 </details>
 
-<details><summary> 2 </summary>
+<details><summary> Non-Ideal MOS Structure </summary>
   
-  #### Title 2
+  #### Non-Ideal MOS Structure Effects
+  1. Effect of fixed charge, Qf
+  2. Effect of metal-semiconductor work function different, ɸms
   
 </details>
 
