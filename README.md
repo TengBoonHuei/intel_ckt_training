@@ -473,11 +473,15 @@ Two types of VLSI Design Styles:
 ## Day 4
 ## Theory - Metal-Oxide_semiconductor (MOS) Structure
 <details><summary> 1 </summary>
+  
   #### Title 1
+  
 </details>
 
 <details><summary> 2 </summary>
+  
   #### Title 2
+  
 </details>
 
 <details><summary> Assignment </summary>
