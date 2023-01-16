@@ -42,13 +42,13 @@ This repo will be used of deposition of training documentations.
   </details>
   
 + **[Day 4 - Metal-Oxide-Semicondutor Structure]()**
-  <detials><summary> Theory </summary>
+  <details><summary> Theory </summary>
   
   [Theory - Metal-Oxide-Semiconductor Structure]()
   
   </details>
   
-  <detials><summary> Theory </summary>
+  <details><summary> Assignment </summary>
   
   [Assignment - Metal-Oxide-Semiconductor Structure]()
   
