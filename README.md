@@ -491,13 +491,13 @@ Two types of VLSI Design Styles:
 
   #### Three deference MOS operation modes
   1. Acumulation Mode, V < 0
-  * When negative voltage appled at the Gate terminal, causing the accumulation of majority carrier (holes) at the interace.
+  * When negative voltage applied at the Gate terminal, causing the accumulation of majority carrier (holes) at the interface.
   * Charge at the surface is directly proportional to the negative voltage.
                              
     ![image](https://user-images.githubusercontent.com/121993909/212722239-0ed35f62-d7f3-482a-912e-8fee7857def9.png)
                        
   2. Depletion Mode, 0 < V < Vt
-  * Semiconductor surace form a depletion region, the surface charge is negative and gradually increase with inrease of voltage.
+  * Semiconductor surface form a depletion region, the surface charge is negative and gradually increase with inrease of voltage.
   * The voltage at which the surface carrier concentration is exactly equal to bulk carrier conentration is called weak inversion/treshold voltage.
   * This is the inversion point where the depletion mode ends and strong inversion started.
     
@@ -521,9 +521,9 @@ Two types of VLSI Design Styles:
   * Applying negative voltage at the gate, the surface charge at the silicon will be zero (flat-band condition).
   
   2. Effect of metal-semiconductor work function different, ɸms
-  * Both metal and semiondutor are made with different type of materials, hence they have different work functions.
-  * Work function means the minimum energy required to remove an eletron from a solid material surface into a point the the vacuum.
-  * To remove the electrons from the semicondutor surface, we have to provide a negative voltage to the gate.
+  * Both metal and semicondutor are made with different type of materials, hence they have different work function.
+  * Work function means the minimum energy required to remove an eletron from a solid material surface into a point in the vacuum.
+  * To remove the electrons from the P-substrate semicondutor surface, we have to provide a negative voltage to the gate.
   
 </details>
 
