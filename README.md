@@ -564,13 +564,13 @@ Two types of VLSI Design Styles:
   * No channel form between source and drain.
   
   Case 2: Linear Operation
-  * Gate voltage slightly above threshold voltage, Vgs >= Vt.
+  * Gate voltage slightly above threshold voltage, Vgs - Vt >= Vds.
   * N-channel start to form between drain and source.
   * Current flow from drain to source, Id.
   * Id increase linearly with Vgs increase.
   
   Case 3: Saturation Mode
-  * Gate voltage much more higher than threshold voltage, Vgs >> Vt
+  * Gate voltage much more higher than threshold voltage, Vgs - Vt < Vds
   * At saturation point, the curent from drain to source is saturated even the Vds keep increasing.
   
     ![image](https://user-images.githubusercontent.com/121993909/213120881-7a9710b9-abce-46b5-b15e-eeec7c1e04b6.png)
@@ -581,12 +581,22 @@ Two types of VLSI Design Styles:
   
   #### NMOS Id-Vgs Charateristics
   
-  ![image](https://user-images.githubusercontent.com/121993909/213131551-e9c14255-0ce2-42e0-afa9-f269b2c02f52.png)
-
+  ![image](https://user-images.githubusercontent.com/121993909/213132077-307de05e-e434-4a1d-b77c-41c252c19efd.png)
   
   #### PMOS Id-Vgs Characteristics
   
   ![image](https://user-images.githubusercontent.com/121993909/213131904-79bbb255-5d76-4fd6-8781-6adabc4ce913.png)
 
+  #### Relationship of Id-Vgs
+  
+  ![image](https://user-images.githubusercontent.com/121993909/213133854-236c86a2-975d-4ca8-8d18-90aad7266d2b.png)
+  
+</details>
+  
+<details><summary> Id-Vds Characteristics </summary>
+  
+  #### Relationship of Id-Vds
+  
+  ![image](https://user-images.githubusercontent.com/121993909/213139307-abac3c6f-c242-4a3d-a4ac-4d45da8b1462.png)
   
 </details>
