@@ -54,7 +54,7 @@ This repo will be used of deposition of training documentations.
   
   </details>
   
-+ **[Day 5 - Metal-Oxide-Semicondutor Feild-Effect Transistor]()**
++ **[Day 5 - Metal-Oxide-Semicondutor Feild-Effect Transistor](https://github.com/TengBoonHuei/intel_ckt_training/blob/main/README.md#day-5)**
   <details><summary> Theory </summary>
   
   [Theory - Metal-Oxide-Semiconductor Feild-Effect Transistor]()
