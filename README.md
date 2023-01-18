@@ -555,7 +555,7 @@ Two types of VLSI Design Styles:
        
 </details>
   
-<details><summay> MOSFET Operation </summary>
+<details><summary> MOSFET Operation </summary>
   
   ### MOSFET Operation - N-Channel Enhancement
   
@@ -575,5 +575,4 @@ Two types of VLSI Design Styles:
   
     ![image](https://user-images.githubusercontent.com/121993909/213120881-7a9710b9-abce-46b5-b15e-eeec7c1e04b6.png)
 
-  
 </details>
