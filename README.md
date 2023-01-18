@@ -544,7 +544,7 @@ Two types of VLSI Design Styles:
 
 ## Day 5
 ## Theory - Metal-Oxide-Semiconductor Feild-Effect Transistor (MOSFET)
-<details><summary> MOSFET </summary>
+<details><summary> MOSFET Stucture </summary>
 
   ### Metal-Oxide-Semiconductor Field-Effect Transistor (MOSFET)
   
@@ -552,10 +552,27 @@ Two types of VLSI Design Styles:
   * MOSFET Structure in Top, Front and 3D views.
   
     ![image](https://user-images.githubusercontent.com/121993909/213101900-6c56f7dc-0082-47d7-a194-a522a1e7b419.png)
+       
+</details>
   
-  #### MOSFET Operation (N-Channel Enhancement)
-  * Case 1: Offset
-    * Gate voltage lower than threshold voltage, Vgs < Vt
-                                                         
+<details><summay> MOSFET Operation </summary>
+  
+  ### MOSFET Operation - N-Channel Enhancement
+  Case 1: Cutoff
+  * Gate voltage lower than threshold voltage, Vgs < Vt.
+  * No channel form between source and drain.
+  
+  Case 2: Linear Operation
+  * Gate voltage slightly above threshold voltage, Vgs >= Vt.
+  * N-channel start to form between drain and source.
+  * Current flow from drain to source, Id.
+  * Id increase linearly with Vgs increase.
+  
+  Case 3: Sauration Mode
+  * Gate voltage much more higher than threshold voltage, Vgs >> Vt
+  * At saturation point, the curent from drain to source is saturated even the Vds keep increasing.
+  
+  ![image](https://user-images.githubusercontent.com/121993909/213120881-7a9710b9-abce-46b5-b15e-eeec7c1e04b6.png)
 
+  
 </details>
