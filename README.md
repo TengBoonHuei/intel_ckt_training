@@ -558,6 +558,7 @@ Two types of VLSI Design Styles:
 <details><summay> MOSFET Operation </summary>
   
   ### MOSFET Operation - N-Channel Enhancement
+  
   Case 1: Cutoff
   * Gate voltage lower than threshold voltage, Vgs < Vt.
   * No channel form between source and drain.
@@ -572,7 +573,7 @@ Two types of VLSI Design Styles:
   * Gate voltage much more higher than threshold voltage, Vgs >> Vt
   * At saturation point, the curent from drain to source is saturated even the Vds keep increasing.
   
-  ![image](https://user-images.githubusercontent.com/121993909/213120881-7a9710b9-abce-46b5-b15e-eeec7c1e04b6.png)
+    ![image](https://user-images.githubusercontent.com/121993909/213120881-7a9710b9-abce-46b5-b15e-eeec7c1e04b6.png)
 
   
 </details>
