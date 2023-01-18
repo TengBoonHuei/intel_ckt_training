@@ -600,3 +600,21 @@ Two types of VLSI Design Styles:
   ![image](https://user-images.githubusercontent.com/121993909/213139307-abac3c6f-c242-4a3d-a4ac-4d45da8b1462.png)
   
 </details>
+  
+<details><summary> Channel Length Modulation (Punch-Through Effect) </summary>
+  
+  #### Channel Length Modulation and Punch-Through Effect
+
+  * In real MOSFET, when Vds keep increasing, the depletion region at drain terminal will extended towards the source terminal.
+  * This causing the channel length decreases, and Id increase with Vds increases.
+  * An extreme case of channel length modulation is called punch-through where the channel length reduce to zero.
+  * Punch-through causing rapidly increase in current, Id with inreasing in drain-source voltage, Vds.
+  
+    ![image](https://user-images.githubusercontent.com/121993909/213145906-2b773870-acf5-4e9a-be11-c9f0ba8a4733.png)
+
+  * The chart below represent the characteristics of the channel length modulation.
+  * When the Vds is higher than Vgs - Vt, the drain current (Id) no longer saturated. And the current is inreasing with the Vds instead.
+  
+    ![image](https://user-images.githubusercontent.com/121993909/213148857-31cb0ed6-c2c2-4035-86e3-53aa636d51a6.png)
+  
+</details>
