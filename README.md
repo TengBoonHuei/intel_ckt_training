@@ -54,6 +54,13 @@ This repo will be used of deposition of training documentations.
   
   </details>
   
++ **[Day 5 - Metal-Oxide-Semicondutor Feild-Effect Transistor]()**
+  <details><summary> Theory </summary>
+  
+  [Theory - Metal-Oxide-Semiconductor Feild-Effect Transistor]()
+  
+  </details>
+  
 ## Day 1
 ## Theory - Overview of VLSI Design
 
@@ -533,4 +540,12 @@ Two types of VLSI Design Styles:
   
   + **[Metal-Oxide-Semiconductor Structure](https://drive.google.com/file/d/1J2FEnV60zrcpUA5jj_AzRldoylW38_u3/view?usp=share_link)**
   
+</details>
+
+## Day 5
+## Theory - Metal-Oxide-Semiconductor Feild-Effect Transistor (MOSFET)
+<details><summary> MOSFET </summary>
+
+  #### Metal-Oxide-Semiconductor Field-Effect Transistor (MOSFET)
+
 </details>
