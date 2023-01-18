@@ -546,6 +546,8 @@ Two types of VLSI Design Styles:
 ## Theory - Metal-Oxide-Semiconductor Feild-Effect Transistor (MOSFET)
 <details><summary> MOSFET </summary>
 
-  #### Metal-Oxide-Semiconductor Field-Effect Transistor (MOSFET)
+  ### Metal-Oxide-Semiconductor Field-Effect Transistor (MOSFET)
+  
+  #### MOSFET Structure
 
 </details>
