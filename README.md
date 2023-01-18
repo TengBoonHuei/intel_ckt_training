@@ -577,6 +577,16 @@ Two types of VLSI Design Styles:
 
 </details>
   
-<details><summary> </summary>
+<details><summary> Id to Vgs Characteristics </summary>
+  
+  #### NMOS Id-Vgs Charateristics
+  
+  ![image](https://user-images.githubusercontent.com/121993909/213131551-e9c14255-0ce2-42e0-afa9-f269b2c02f52.png)
+
+  
+  #### PMOS Id-Vgs Characteristics
+  
+  ![image](https://user-images.githubusercontent.com/121993909/213131904-79bbb255-5d76-4fd6-8781-6adabc4ce913.png)
+
   
 </details>
