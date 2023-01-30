@@ -634,9 +634,10 @@ Two types of VLSI Design Styles:
   
   * Cgso: gate-source overlap capacitance
   * Cgdo: gate-drain overlap capacitance
+  * Cgso = Cgdo = Cox * W * Ld
   * Cdb: drain-bulk reverse bias junction capacitance
   * Csb: source-bulk reverse bias junction capacitance
-  * Cgb: gate-bulk oxide capacitance
+  * Cgb: gate-bulk oxide capacitance (High value)
   * No channel capacitance
   
     ![image](https://user-images.githubusercontent.com/121993909/215365536-971f5765-784b-4cc1-a81e-8bf1c6bd2824.png)
@@ -645,10 +646,12 @@ Two types of VLSI Design Styles:
   
   * Cgso: gate-source overlap capacitance
   * Cgdo: gate-drain overlap capacitance
+  * Cgso = Cgdo = Cox * W * Ld
   * Cdb: drain-bulk reverse bias junction capacitance
   * Csb: source-bulk reverse bias junction capacitance
   * Cgdch: gate-channel oxide at drain side
   * Cgsch: gate-channel oxide at source side
+  * Cgsch = Cgdch = 1/2(Cox * W * Leff)
   * Cch-b: channel-bulk capacitance
   
     ![image](https://user-images.githubusercontent.com/121993909/215365600-c3d51b90-16fa-4aba-9299-fecce7332ed4.png)
@@ -657,9 +660,11 @@ Two types of VLSI Design Styles:
   
   * Cgso: gate-source overlap capacitance
   * Cgdo: gate-drain overlap capacitance
+  * Cgso = Cgdo = Cox * W * Ld
   * Cdb: drain-bulk reverse bias junction capacitance
   * Csb: source-bulk reverse bias junction capacitance
   * Cgsch: gate-channel oxide capacitance at source side
+  * Cgsch = 2/3(Cox * W * Leff)
   * Cch-b: channel-bulk capacitance
     
     ![image](https://user-images.githubusercontent.com/121993909/215365654-be687b0e-0851-4cb6-becc-a7c5ba1a5665.png)
