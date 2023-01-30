@@ -64,7 +64,7 @@ This repo will be used of deposition of training documentations.
 + **[Day 6 - MOSFET Intrinsic Capacitance](https://github.com/TengBoonHuei/intel_ckt_training/blob/main/README.md#day-6)**
   <details><summary> Theory </summary>
   
-  [Theory - MOSFET Intrinsic Capacitance]()
+  [Theory - MOSFET Intrinsic Capacitance](https://github.com/TengBoonHuei/intel_ckt_training/blob/main/README.md#theory---mosfet-intrinsic-capacitances)
   
   </details>
   
