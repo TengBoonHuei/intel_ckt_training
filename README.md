@@ -61,6 +61,13 @@ This repo will be used of deposition of training documentations.
   
   </details>
   
++ **[Day 6 - MOSFET Intrinsic Capacitance]()**
+  <details><summary> Theory </summary>
+  
+  [Theory - MOSFET Intrinsic Capacitance]()
+  
+  </details>
+  
 ## Day 1
 ## Theory - Overview of VLSI Design
 
@@ -616,5 +623,46 @@ Two types of VLSI Design Styles:
   * When the Vds is higher than Vgs - Vt, the drain current (Id) no longer saturated. And the current is inreasing with the Vds instead.
   
     ![image](https://user-images.githubusercontent.com/121993909/213148857-31cb0ed6-c2c2-4035-86e3-53aa636d51a6.png)
+  
+</details>
+
+## Day 6
+## Theory - MOSFET Intrinsic Capacitances
+<details><summary> MOSFET Intrinsic Capacitance </summary>
+  
+  #### Cutoff Region Intrinsic Capacitance
+  
+  * Cgso: gate-source overlap capacitance
+  * Cgdo: gate-drain overlap capacitance
+  * Cdb: drain-bulk reverse bias junction capacitance
+  * Csb: source-bulk reverse bias junction capacitance
+  * Cgb: gate-bulk oxide capacitance
+  * No channel capacitance
+  
+    ![image](https://user-images.githubusercontent.com/121993909/215365536-971f5765-784b-4cc1-a81e-8bf1c6bd2824.png)
+
+  #### Linear Region Intrinsic Capacitance
+  
+  * Cgso: gate-source overlap capacitance
+  * Cgdo: gate-drain overlap capacitance
+  * Cdb: drain-bulk reverse bias junction capacitance
+  * Csb: source-bulk reverse bias junction capacitance
+  * Cgdch: gate-channel oxide at drain side
+  * Cgsch: gate-channel oxide at source side
+  * Cch-b: channel-bulk capacitance
+  
+    ![image](https://user-images.githubusercontent.com/121993909/215365600-c3d51b90-16fa-4aba-9299-fecce7332ed4.png)
+
+  #### Saturation Region Intrinsic Capacitance
+  
+  * Cgso: gate-source overlap capacitance
+  * Cgdo: gate-drain overlap capacitance
+  * Cdb: drain-bulk reverse bias junction capacitance
+  * Csb: source-bulk reverse bias junction capacitance
+  * Cgsch: gate-channel oxide capacitance at source side
+  * Cch-b: channel-bulk capacitance
+    
+    ![image](https://user-images.githubusercontent.com/121993909/215365654-be687b0e-0851-4cb6-becc-a7c5ba1a5665.png)
+
   
 </details>
