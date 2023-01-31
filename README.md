@@ -669,5 +669,12 @@ Two types of VLSI Design Styles:
     
     ![image](https://user-images.githubusercontent.com/121993909/215365654-be687b0e-0851-4cb6-becc-a7c5ba1a5665.png)
 
+</details>
+
+<details><summary> Assignment </summary>
+  
+  #### MOSFET with Capacitor
+  
+  + **[MOSFET with Capacitor](https://drive.google.com/file/d/17AOIVM4ptb-3r6g5jI1kalYb9TSbbGbs/view?usp=share_link)**
   
 </details>
