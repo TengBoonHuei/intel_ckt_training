@@ -68,6 +68,12 @@ This repo will be used of deposition of training documentations.
   
   </details>
   
+  <details><summary> Assignment </summary>
+  
+  [Assignment - MOSFET with Capacitor](https://github.com/TengBoonHuei/intel_ckt_training/blob/main/README.md#mosfet-with-capacitor)
+  
+  </details>
+  
 ## Day 1
 ## Theory - Overview of VLSI Design
 
