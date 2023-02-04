@@ -794,3 +794,15 @@ Two types of VLSI Design Styles:
   3. Increase Vdd
   
 </details>
+
+<details><summary> CMOS Inverter - Power Consumption </summary>
+  
+  #### Dynamic power dissipation due to charge/discharging of capacitance
+  * Each time load capacitance get charged through PMOS, its voltage rise from 0 to VDD.
+  * Due to this, certain amount of energy is drawn from the power supply.
+  * Part of this energy dissipated on the PMOS device while the remainder stored in the load capacitor.
+  * During the high-to-low transition, this capacitor is disharged, and the stored energy is dissipated in the NMOS device.
+  * The values of the Energy Evdd taken from the supply during the transition is:
+    **** Evdd = Cload * Vdd * Vdd
+  
+</details>
