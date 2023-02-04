@@ -707,11 +707,9 @@ Two types of VLSI Design Styles:
     ![image](https://user-images.githubusercontent.com/121993909/216751015-ff55e564-f24f-4d65-8235-c4102d101884.png)
 
   #### CMOS Inverter Operation Region
-  
     ![image](https://user-images.githubusercontent.com/121993909/216752588-4c29e119-eb4d-47c3-adfc-4cff2787c901.png)
 
   #### MOSFET Strength Variation
-  
     ![image](https://user-images.githubusercontent.com/121993909/216752618-1ddd0e5c-b28a-4ca2-91ee-e9feeb9dda82.png)
 
   * Strong : 
@@ -727,7 +725,6 @@ Two types of VLSI Design Styles:
     * more slope
   
   #### Noise Margin
-  
     ![image](https://user-images.githubusercontent.com/121993909/216754355-a492226b-a7de-4d8c-b8dd-6b6c93caa094.png)
 
                                         
