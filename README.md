@@ -74,6 +74,13 @@ This repo will be used of deposition of training documentations.
   
   </details>
   
+  + **[Day 7 - CMOS Inverter]()**
+  <details><summary> Theory </summary>
+  
+  [Theory - CMOS Inverter]()
+  
+  </details>
+  
 ## Day 1
 ## Theory - Overview of VLSI Design
 
@@ -683,4 +690,10 @@ Two types of VLSI Design Styles:
   
   + **[MOSFET with Capacitor](https://drive.google.com/file/d/17AOIVM4ptb-3r6g5jI1kalYb9TSbbGbs/view?usp=share_link)**
   
+</details>
+
+## Day 7
+## Theory - CMOS Inverter
+<details><summary> CMOS Inverter - Static Characteristics </summary>
+
 </details>
