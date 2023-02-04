@@ -733,8 +733,10 @@ Two types of VLSI Design Styles:
   #### Noise Margin
   
   * Inverter Noise Margin
+    * Noise margin is the amount of noise that could be added to a worst-case output such that the signal can still be interpreted as a valid input.
+    * How much noise the circuit can tolerate? So, the output voltage can get the correct logic.
   
-    ![image](https://user-images.githubusercontent.com/121993909/216754355-a492226b-a7de-4d8c-b8dd-6b6c93caa094.png)
+    !![image](https://user-images.githubusercontent.com/121993909/216757940-cddd8baf-85e8-4ddf-a773-84edf4b08d77.png)
 
                                         
 </details>
