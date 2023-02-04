@@ -714,7 +714,7 @@ Two types of VLSI Design Styles:
 
   #### MOSFET Strength Variation
   
-  CMOS Strength Analysis 
+  * CMOS Strength Analysis 
   
     ![image](https://user-images.githubusercontent.com/121993909/216752618-1ddd0e5c-b28a-4ca2-91ee-e9feeb9dda82.png)
 
