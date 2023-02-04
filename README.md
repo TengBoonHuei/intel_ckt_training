@@ -708,26 +708,27 @@ Two types of VLSI Design Styles:
 
   #### CMOS Inverter Operation Region
   
-  ![image](https://user-images.githubusercontent.com/121993909/216751278-07b259cc-d0d6-4580-b449-14a0cb4a355b.png)
+    ![image](https://user-images.githubusercontent.com/121993909/216752588-4c29e119-eb4d-47c3-adfc-4cff2787c901.png)
+
+  #### MOSFET Strength Variation
   
-  * Region 1: Vin < Vthn
-    * NMOS - Cut-off region
-    * PMOS - Linear region
-                                        
-  * Region 2: Vin > Vthn
-    * NMOS - Saturation region
-    * PMOS - Linear region
+    ![image](https://user-images.githubusercontent.com/121993909/216752618-1ddd0e5c-b28a-4ca2-91ee-e9feeb9dda82.png)
+
+  * Strong : 
+    * increased width
+    * less impedance
+    * lower threshold voltage
+    * less slope
   
-  * Region 3: Vin = Vdd/2
-    * NMOS - Saturation region
-    * PMOS - Saturation region
+  * Weak : 
+    * decreased width
+    * more impedance
+    * higher threshold voltage
+    * more slope
   
-  * Region 4: Vin < Vdd - Vthp
-    * NMOS - Linear region
-    * PMOS - Saturation region
-                       
-  * Region 5: Vin > Vdd - Vthp
-    * NMOS - Linear Region
-    * PMOS - Cut-off region
+  #### Noise Margin
+  
+    ![image](https://user-images.githubusercontent.com/121993909/216754355-a492226b-a7de-4d8c-b8dd-6b6c93caa094.png)
+
                                         
 </details>
