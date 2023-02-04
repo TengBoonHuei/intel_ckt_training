@@ -74,7 +74,7 @@ This repo will be used of deposition of training documentations.
   
   </details>
   
-  + **[Day 7 - CMOS Inverter]()**
++ **[Day 7 - CMOS Inverter](https://github.com/TengBoonHuei/intel_ckt_training/blob/main/README.md#day-7)**
   <details><summary> Theory </summary>
   
   [Theory - CMOS Inverter]()
