@@ -803,6 +803,12 @@ Two types of VLSI Design Styles:
   * Part of this energy dissipated on the PMOS device while the remainder stored in the load capacitor.
   * During the high-to-low transition, this capacitor is disharged, and the stored energy is dissipated in the NMOS device.
   * The values of the Energy Evdd taken from the supply during the transition is:
-    # * Evdd = Cload * Vdd * Vdd
+     ###### Evdd = Cload * VDD * VDD
+  * Energy stored on the capacitor at the end of the transition:
+     ###### Ec = (Cload * VDD * VDD) / 2
+  * Only half of the energy supplied by the power source is stored on Cload. The other half has been dissipated in the PMOS transistor.
+  * If the gate is switched on and off F(0-1) times per second, the power consumption equals:
+     ###### Pdyn = Cload * VDD * VDD * F(0-1)
+  
   
 </details>
