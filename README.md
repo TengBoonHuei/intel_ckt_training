@@ -803,6 +803,6 @@ Two types of VLSI Design Styles:
   * Part of this energy dissipated on the PMOS device while the remainder stored in the load capacitor.
   * During the high-to-low transition, this capacitor is disharged, and the stored energy is dissipated in the NMOS device.
   * The values of the Energy Evdd taken from the supply during the transition is:
-    ######   Evdd = Cload * Vdd * Vdd
+    # * Evdd = Cload * Vdd * Vdd
   
 </details>
