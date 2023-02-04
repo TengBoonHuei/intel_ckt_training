@@ -811,4 +811,23 @@ Two types of VLSI Design Styles:
      ###### Pdyn = Cload * VDD * VDD * F(0-1)
   
   
+  #### Dissipation due to Direct Path Current
+  * Energy consume per switching period:
+     ###### Edp = VDD * Ipeak * Tsc
+  * The average power consumption:
+     ###### Pdp = Csc * VDD * VDD * F
+  
+    ![image](https://user-images.githubusercontent.com/121993909/216771484-f002010a-37ef-45dd-9168-261337331d61.png)
+
+  
+  #### Static Power Consumption
+  * The static or steady state power dissipation of a circuit is expressed as:
+     ###### Pstat = Istat * VDD
+  * Ideally, Istat = 0 as the PMOS and NMOS device are never on simultaneously in the steady state operation.
+  * But a leakage current flowing through the reverse biased diode junctions of the transistors located between source and drain and the substrate.
+  * In general the leakage currents are very small and can be ignored. However the junction currents are caused by thermally generated carriers.
+  * Sub-threshold Current: Drain-to-source current even when Vgs is smaller than the threshold voltage.
+  
+    ![image](https://user-images.githubusercontent.com/121993909/216771852-636dc284-b965-4f9e-b1d3-544dd5b8641c.png)
+  
 </details>
