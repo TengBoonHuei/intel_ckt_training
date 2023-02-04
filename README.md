@@ -751,7 +751,6 @@ Two types of VLSI Design Styles:
     * Output fall time (Tfall) increases
   * Keeping load capacitance as low as possible can achieve a high performance CMOS circuits.
   
-  
   #### Major Components of Load Capacitance
   * Intrinsic Capacitance
     * Cdbp, Cdbn : drain-buld capacitances
@@ -767,24 +766,20 @@ Two types of VLSI Design Styles:
   
     ![image](https://user-images.githubusercontent.com/121993909/216758976-dded7d1b-90db-4850-b077-7a1f828bcb06.png)
   
-  
   #### Rise Time
   * The time required for the output voltage to rise from 10% to 90% of the supply voltage
     ![image](https://user-images.githubusercontent.com/121993909/216759087-edfd78ce-9714-4df8-bbed-88887ccf2d9e.png)
 
-  
   #### Fall Time
   * The time required for the output voltage to fall from 90% to 10% of the supply voltage
     ![image](https://user-images.githubusercontent.com/121993909/216759092-597205cc-62a1-488d-aa5a-3f096dcbc06b.png)
   
-  
   #### Propagation Delay (Tp)
   * Input to output delay during the signal transition at 50%.
-  ![image](https://user-images.githubusercontent.com/121993909/216759324-b4da0b91-b53e-41b8-a01a-a82d9d4af27e.png)
+    ![image](https://user-images.githubusercontent.com/121993909/216759324-b4da0b91-b53e-41b8-a01a-a82d9d4af27e.png)
   
   * Delay calculation
     * Tp = 0.69 * Cload * [(Rp + Rn) / 2]
-    
       ![image](https://user-images.githubusercontent.com/121993909/216759447-87d226ee-8390-4dbf-98ba-0030f7d4f614.png)
   
   #### Ways to Minimized Propagation Delay
