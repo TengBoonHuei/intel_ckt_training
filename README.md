@@ -695,5 +695,39 @@ Two types of VLSI Design Styles:
 ## Day 7
 ## Theory - CMOS Inverter
 <details><summary> CMOS Inverter - Static Characteristics </summary>
+  
+  #### Properties CMOS Inverter from Switched Level view
+  
+  * Rail-to-rail swing: results in high noise margin
+  * Logic level independent of device size
+  * Low output impedance and less sensitive to noise
+  * Extremely high input impedance
+  * No direct path between supply and ground, static power ~ 0W.
+  
+    ![image](https://user-images.githubusercontent.com/121993909/216751015-ff55e564-f24f-4d65-8235-c4102d101884.png)
 
+  #### CMOS Inverter Operation Region
+  
+  ![image](https://user-images.githubusercontent.com/121993909/216751278-07b259cc-d0d6-4580-b449-14a0cb4a355b.png)
+  
+  * Region 1: Vin < Vthn
+    * NMOS - Cut-off region
+    * PMOS - Linear region
+                                        
+  * Region 2: Vin > Vthn
+    * NMOS - Saturation region
+    * PMOS - Linear region
+  
+  * Region 3: Vin = Vdd/2
+    * NMOS - Saturation region
+    * PMOS - Saturation region
+  
+  * Region 4: Vin < Vdd - Vthp
+    * NMOS - Linear region
+    * PMOS - Saturation region
+                       
+  * Region 5: Vin > Vdd - Vthp
+    * NMOS - Linear Region
+    * PMOS - Cut-off region
+                                        
 </details>
