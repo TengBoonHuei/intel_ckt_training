@@ -737,6 +737,42 @@ Two types of VLSI Design Styles:
     * How much noise the circuit can tolerate? So, the output voltage can get the correct logic.
   
     !![image](https://user-images.githubusercontent.com/121993909/216757940-cddd8baf-85e8-4ddf-a773-84edf4b08d77.png)
+                         
+</details>
+  
+<details><summary> CMOS Inverter - Dynamic Behavior </summary>
+  
+  #### CMOS Inverter Dynamic Behavior
+  * High performance CMOS circuit should have less propagation delay, less rise and fall time.
+  * Propagation delay of the CMOS inverter is determined by the time it takes to charge and discharge the load capacitance Cload through the P/N MOS transistors respectively.
+  * If Cload increases:
+    * Propagation delay (PD) increases
+    * Output rise time (Trise) increases
+    * Output fall time (Tfall) increases
+  * Keeping load capacitance as low as possible can achieve a high performance CMOS circuits.
+  
+  #### Major Components of Load Capacitance
+  * Intrinsic Capacitance
+    * Cdbp, Cdbn : drain-buld capacitances
+    * Cgdp, Cgdn : gate-drain overlap capacitance
+  
+  * Wiring Capacitance
+    * Cw : Interconnect wiring capacitance
+  
+  * Fanout Capacitance
+    * Cgsp, Cgsn : source-bulk reverse bias junction capacitance
+  
+  * Cload = Cint + Cwiring + Cfanout
+  
+    ![image](https://user-images.githubusercontent.com/121993909/216758976-dded7d1b-90db-4850-b077-7a1f828bcb06.png)
+  
+  #### Rise Time
+  * The time required for the output voltage to rise from 10% to 90% of the supply voltage
+    ![image](https://user-images.githubusercontent.com/121993909/216759087-edfd78ce-9714-4df8-bbed-88887ccf2d9e.png)
 
-                                        
+  
+  #### Fall Time
+  * The time required for the output voltage to fall from 90% to 10% of the supply voltage
+    ![image](https://user-images.githubusercontent.com/121993909/216759092-597205cc-62a1-488d-aa5a-3f096dcbc06b.png)
+  
 </details>
