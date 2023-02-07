@@ -868,6 +868,11 @@ Two types of VLSI Design Styles:
   * γ = [(𝑉𝑇 * 𝑉𝑆𝐵) − 𝑉𝑇0] / [sqrt(|2ϕ𝐹| + 𝑉𝑆𝐵) − sqrt(|2ϕ𝐹|)]
   
     ![image](https://user-images.githubusercontent.com/121993909/217270392-5eb7cecd-9ba6-4754-a181-bc3f924e28c2.png)
+  
+  #### Calculation of Lambda - Channel length modulation parameter
+  * 𝐼𝐷2 / 𝐼𝐷1 = (1 + λ𝑉𝐷𝑆2) / (1 + λ𝑉𝐷𝑆1)
+  
+    ![image](https://user-images.githubusercontent.com/121993909/217271922-086f2b1a-1e7b-4b14-9379-be2f4db84295.png)
 
 </details>
 
