@@ -81,7 +81,7 @@ This repo will be used of deposition of training documentations.
   
   </details>
   
-+ **[Day 8 - MOSFET Parameter Extraction, Scaling, Short Channel Effects and PVT Variations]()**
++ **[Day 8 - MOSFET Parameter Extraction, Scaling, Short Channel Effects and PVT Variations](https://github.com/TengBoonHuei/intel_ckt_training/blob/main/README.md#day-8)**
   <details><summary> Theory </summary>
   
   [Theory - MOSFET Parameter Extraction, Scaling, Short Channel Effect & PVT Variations]()
