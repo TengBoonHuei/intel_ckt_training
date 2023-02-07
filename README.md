@@ -90,7 +90,7 @@ This repo will be used of deposition of training documentations.
   
   <details><summary> Assignment </summary>
   
-  [Assignment - Parameter Extractions]()
+  [Assignment - Parameter Extractions](https://github.com/TengBoonHuei/intel_ckt_training/blob/main/README.md#parameter-extraction)
   
   </details>
   
@@ -866,5 +866,7 @@ Two types of VLSI Design Styles:
 <details><summary> Assignment - Parameter Extraction </summary>
   
   #### Parameter Extraction
+  
+  + **[Parameter Extraction]()**
 
 </details>
