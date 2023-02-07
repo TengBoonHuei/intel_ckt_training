@@ -84,7 +84,7 @@ This repo will be used of deposition of training documentations.
 + **[Day 8 - MOSFET Parameter Extraction, Scaling, Short Channel Effects and PVT Variations](https://github.com/TengBoonHuei/intel_ckt_training/blob/main/README.md#day-8)**
   <details><summary> Theory </summary>
   
-  [Theory - MOSFET Parameter Extraction, Scaling, Short Channel Effect & PVT Variations]()
+  [Theory - MOSFET Parameter Extraction, Scaling, Short Channel Effect & PVT Variations](https://github.com/TengBoonHuei/intel_ckt_training/blob/main/README.md#theory---mosfet-parameter-extraction-scaling-short-channel-effects--pvt-variations)
   
   </details>
   
@@ -864,5 +864,7 @@ Two types of VLSI Design Styles:
 </details>
 
 <details><summary> Assignment - Parameter Extraction </summary>
+  
+  #### Parameter Extraction
 
 </details>
