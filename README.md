@@ -851,15 +851,16 @@ Two types of VLSI Design Styles:
   
   #### Lerge Signal Model Parameters
   * MOSFET Level 1 Model Parameters:
-    1. Vt0: Zero body biased threshold voltage
-    2. γ (GAMMA): Body bias parameter
-    3. λ (LAMBDA): Channel length modulation parameter
-    4. Kn (KN): Tranconductance parameter
-    5. ϕ𝑓 (PHI): Surface Potential
+    * Vt0       : Zero body biased threshold voltage
+    * γ (GAMMA) : Body bias parameter
+    * λ (LAMBDA): Channel length modulation parameter
+    * Kn (KN)   : Tranconductance parameter
+    * ϕ𝑓 (PHI)  : Surface Potential
   
   #### Calculation of Vt0 - Zero body biased threshold voltage
-  **## 𝐼𝐷(𝑆𝑎𝑡) = 𝑘𝑛/2 . (𝑉𝐺𝑆 − 𝑉𝑇)2 . (1 + λ𝑉𝐷𝑆)
-  **## 𝐼𝐷(𝑆𝑎𝑡) = 𝑘𝑛/2 . (𝑉𝐺𝑆 − 𝑉𝑇)2
+  * 𝐼𝐷(𝑆𝑎𝑡) = 𝑘𝑛/2 . (𝑉𝐺𝑆 − 𝑉𝑇)2 . (1 + λ𝑉𝐷𝑆)
+  * 𝐼𝐷(𝑆𝑎𝑡) = 𝑘𝑛/2 . (𝑉𝐺𝑆 − 𝑉𝑇)2
+  * sqrt(𝐼𝐷) = sqrt(𝑘𝑛/2) . (𝑉𝐺𝑆 − 𝑉𝑇)
   
 </details>
 
