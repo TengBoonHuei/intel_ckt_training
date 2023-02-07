@@ -861,6 +861,7 @@ Two types of VLSI Design Styles:
   * 𝐼𝐷(𝑆𝑎𝑡) = 𝑘𝑛/2 . (𝑉𝐺𝑆 − 𝑉𝑇)2 . (1 + λ𝑉𝐷𝑆)
   * 𝐼𝐷(𝑆𝑎𝑡) = 𝑘𝑛/2 . (𝑉𝐺𝑆 − 𝑉𝑇)2
   * sqrt(𝐼𝐷) = sqrt(𝑘𝑛/2) . (𝑉𝐺𝑆 − 𝑉𝑇)
+  ![image](https://user-images.githubusercontent.com/121993909/217268659-9deed400-a6ca-46c7-bed6-e5d7e67879a9.png)
   
 </details>
 
