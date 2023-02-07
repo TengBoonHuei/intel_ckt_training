@@ -861,12 +861,12 @@ Two types of VLSI Design Styles:
   * 𝐼𝐷(𝑆𝑎𝑡) = 𝑘𝑛/2 . (𝑉𝐺𝑆 − 𝑉𝑇)2 . (1 + λ𝑉𝐷𝑆)
   * 𝐼𝐷(𝑆𝑎𝑡) = 𝑘𝑛/2 . (𝑉𝐺𝑆 − 𝑉𝑇)2
   * sqrt(𝐼𝐷) = sqrt(𝑘𝑛/2) . (𝑉𝐺𝑆 − 𝑉𝑇)
-  ![image](https://user-images.githubusercontent.com/121993909/217268659-9deed400-a6ca-46c7-bed6-e5d7e67879a9.png)
+    ![image](https://user-images.githubusercontent.com/121993909/217268659-9deed400-a6ca-46c7-bed6-e5d7e67879a9.png)
   
   #### Calculation of Gamma - Body bias parameter
   * γ = [(𝑉𝑇 * 𝑉𝑆𝐵) − 𝑉𝑇0] / [sqrt(|2ϕ𝐹| + 𝑉𝑆𝐵) − sqrt(|2ϕ𝐹|)]
-  ![image](https://user-images.githubusercontent.com/121993909/217270143-a46f7074-4eee-479f-b79a-78139355cd6a.png)
-  
+    ![image](https://user-images.githubusercontent.com/121993909/217270392-5eb7cecd-9ba6-4754-a181-bc3f924e28c2.png)
+
 </details>
 
 <details><summary> MOSFET Scaling </summary>
