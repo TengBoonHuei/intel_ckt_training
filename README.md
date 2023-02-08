@@ -944,7 +944,7 @@ Two types of VLSI Design Styles:
     ![image](https://user-images.githubusercontent.com/121993909/217560206-e083282a-8801-41b8-a050-0d22bbe9ecc6.png)
 
   #### Velocity Saturation
-  * At low 𝐸𝑦, the electron drift velocity 𝑣𝑑𝑒 in the channel varies linearly with the electric field intensity. However, as 𝐸𝑦 increases above 10^4 V/cm, the drift velocity tends to increase more slowlym abd approaches a saturation value of 𝑣𝑑𝑒𝑠𝑎𝑡 = 10^7 cm/s around 𝐸𝑦 = 10^5 V/cm at 300K.
+  * At low 𝐸𝑦, the electron drift velocity 𝑣𝑑𝑒 in the channel varies linearly with the electric field intensity. However, as 𝐸𝑦 increases above 10^4 V/cm, the drift velocity tends to increase more slowly and approaches a saturation value of 𝑣𝑑𝑒𝑠𝑎𝑡 = 10^7 cm/s around 𝐸𝑦 = 10^5 V/cm at 300K.
   * The performance of the short-channel devices is also affected by the velocity saturation, which reduces the tranconductance in the saturation mode.
   * The drain current is limited by velocity saturation instead of pinch off. This occurs in short channel devices when the dimensions are scale without lowering the bias voltage.
   * The critical voltage 𝑉𝑐 is the drain-to-source voltage at which the critical electric field is reached 𝑉𝑐 = 𝐸𝑐 . 𝐿.
