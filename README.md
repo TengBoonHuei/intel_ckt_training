@@ -907,6 +907,50 @@ Two types of VLSI Design Styles:
 
 <details><summary> Short Channel Effects </summary>
   
+  #### Short Channel Effect
+  * A MOSFET device is considered to be short when the channel length is the same order of magnitude as the depletion-layer widths (𝑥𝑑𝐷 ,
+𝑥𝑑𝑆) of the source and drain junction.
+  * Alternatively, a MOSFET can be defined as a short-channel device if the effective channel length 𝐿𝑒𝑓𝑓 is approximately equal to the source and drain junction depth 𝑥𝑗.
+  * As the channel length L is reduced to increase both the operation speed and the number of components per chip, the so-called short-channel effect arise.
+  
+    ![image](https://user-images.githubusercontent.com/121993909/217550870-9ecd5600-70e7-4c42-b59b-bb0b6a2621c4.png)
+
+  * The short channel effects are attributed to 2 physical phenomena:
+    * the limitation imposed on electron drift characteristics in the channel
+    * the modification of the threshold voltage due to the shortening channel length
+  
+  * In particular seven different short channel effects can be distinguished
+    * drain-induced barrier lowering and punch through
+    * mobility degradation or surface scattering
+    * velocity saturation
+    * impact ionization
+    * hot electrons
+    * sub-threshold conduction
+    * Vt roll-off
+  
+  #### Drain Induced Barrier Lowering (DIBL)
+  * In small-geometry MOSFETs, the potential barrier is controlled by both the gate-to-source voltage Vgs and the drain-to-source voltage Vds.
+  * If the drain voltage is increased, the potential barrier in the channel decreases, leading to drain-incuded barrier lowering.
+  * The reduction of the potential barrier eventually allows electrons flow between the source and drain, even if the gate-to-source voltage is lower than the threshold voltage.
+  * The channel current that flows under this condition, Vgs < Vt0 is called the sub-threshold current.
+                                                                   
+    ![image](https://user-images.githubusercontent.com/121993909/217555288-78db669a-b40e-4286-85fa-0c60160b292d.png)
+
+  #### Mobility Degradation
+  * As channel length becomes smaller due to the lateral extension of the depletion layer into the channel region, the longitudinal electric feild component 𝐸𝑦 increases, and the surface mobility µ becomes field-dependent.
+  * Since the carrier tranport in a MOSFET is confined within the narrow inversion layer, and the surface scattering (that is the collisions suffered by the electrons that are accelerated toward the interfaced by 𝐸𝑥) causes reduction of the mobility.
+  * The electrons move with great difficulty parallel to the interface, so that the average surface mobility, even for small values of 𝐸𝑦, is about half as much as that of the bulk mobility.
+                                                                  
+    ![image](https://user-images.githubusercontent.com/121993909/217560206-e083282a-8801-41b8-a050-0d22bbe9ecc6.png)
+
+  #### Velocity Saturation
+  * At low 𝐸𝑦, the electron drift velocity 𝑣𝑑𝑒 in the channel varies linearly with the electric field intensity. However, as 𝐸𝑦 increases above 10^4 V/cm, the drift velocity tends to increase more slowlym abd approaches a saturation value of 𝑣𝑑𝑒𝑠𝑎𝑡 = 10^7 cm/s around 𝐸𝑦 = 10^5 V/cm at 300K.
+  * The performance of the short-channel devices is also affected by the velocity saturation, which reduces the tranconductance in the saturation mode.
+  * The drain current is limited by velocity saturation instead of pinch off. This occurs in short channel devices when the dimensions are scale without lowering the bias voltage.
+  * The critical voltage 𝑉𝑐 is the drain-to-source voltage at which the critical electric field is reached 𝑉𝑐 = 𝐸𝑐 . 𝐿.
+                                                                  
+    ![image](https://user-images.githubusercontent.com/121993909/217563482-0ded5bae-3ab3-4d0d-bdf6-cfd7b69352a0.png)
+
 </details>
 
 <details><summary> Process, Voltage and Temperature (PVT) Variations </summary>
