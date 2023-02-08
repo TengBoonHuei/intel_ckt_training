@@ -878,6 +878,31 @@ Two types of VLSI Design Styles:
 
 <details><summary> MOSFET Scaling </summary>
   
+  #### MOSFET Scaling
+  * As transistors get smaller, their power density stays constants, so that the power use stays in proportion with area; both voltage and current scale down with length.
+  * Reduction of the size (dimension of the MOSFET) commonly reffered to as scaling.
+  * There are two basic types of size-reduction strategies:
+    * Full Scaling (Constatnt-field scaling)
+      - This scaling option attampts to preserve the magnitude of internal electric fields in the MOSFET, while the dimensions are scaled down by a factor of S.
+      - The charge densities must be increased by a factor of S in order to maintain the feild conditions.
+        
+        ![image](https://user-images.githubusercontent.com/121993909/217484893-50fcd726-8cad-4139-aa18-330355b16bb3.png)
+
+        ![image](https://user-images.githubusercontent.com/121993909/217484952-6b223ac1-85ed-49ef-9e4d-81c397f4a2a0.png)
+
+    * Constant Voltage Scaling
+      - In constant-voltage scaling, all dimensions of the MOSFET are reduced by a factor of S, as in full scaling. The power supply voltage and the terminal voltages remain unchanged.
+      - The doping desities must be increased by a factor of S*S (squared) in order to preserve the charge-field relations.
+  
+        ![image](https://user-images.githubusercontent.com/121993909/217486587-c43f9b55-ef64-43e1-9767-a0b15f746301.png)
+
+        ![image](https://user-images.githubusercontent.com/121993909/217486659-5fe96421-002a-43a4-81ba-547eb8e562c0.png)
+
+  #### Summary of MOSFET Scaling
+  * Constant Voltage Scaling may be preffered over Full Scaling in many practical cases because of the external voltage-level constrains.
+  * It must be regcognized, however, that constant-voltage scaling increases the drain current density and the power density by a factor of S*S*S (cubed).
+  * This large increase in current and power densities may eventually cause serious reliability problems for the scaled transistor, such as electromigration, hot-carrier degradation, oxide breakdown, and electrical over-stress.
+  
 </details>
 
 <details><summary> Short Channel Effects </summary>
