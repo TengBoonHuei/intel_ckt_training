@@ -979,6 +979,7 @@ Two types of VLSI Design Styles:
   
   #### Process Variation
   1. Variation in the process parameters:
+  
     * Impurity concentration densities
     * Oxide thicknesses
     * Diffusion depth
@@ -987,6 +988,7 @@ Two types of VLSI Design Styles:
   * This introduces the variation of the sheet resistances and threshold voltages of transistor.
   
   2. Variation in the dimensions:
+  
     * Width and length variation of MOS Transistors, resistors and capacitors
     * Mismatches of emitter area in Bipolar devices.
   
