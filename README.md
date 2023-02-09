@@ -951,6 +951,28 @@ Two types of VLSI Design Styles:
                                                                   
     ![image](https://user-images.githubusercontent.com/121993909/217563482-0ded5bae-3ab3-4d0d-bdf6-cfd7b69352a0.png)
 
+  #### Impact Ionization
+  * Electron-hole pair generated due to high longitudinal electric field by impact ionization.
+  * Holes swept into bulk
+  * Potential drop by hole current create a bulk-to-source forward bias
+  * Additional electron injection and carrier flow into drain.
+                                                                  
+    ![image](https://user-images.githubusercontent.com/121993909/217735899-f58d9b52-0c62-47df-ba98-8946525e6918.png)
+
+  #### Hot Carrier
+  * Another problem related to high electric fields is caused by so-called hot electrons.
+  * This high energy can accumulate with time and degrade the device performance by increasing Vt and affect adversely.
+                                                                  
+    ![image](https://user-images.githubusercontent.com/121993909/217736710-cb2c112c-e8c1-4bf6-bce7-c39b3e226da6.png)
+
+  #### Sub-threshold Conduction
+  * When the gate voltage is high, the transistor is strongly ON. When the gate voltage falls below Vt, the exponential decline in current appears as a straight line on the logarithmic scale.
+  * This regime of Vgs < Vt is called weak inversion.
+  * The sub-threshold leakage current increases significantly with Vds because of drain-induced barrier lowering.
+  * There is a lower limit on Ids set by drain junction leakage that is exacerbated by the negative gate voltage.
+  
+    ![image](https://user-images.githubusercontent.com/121993909/217739476-e51fea7b-96a2-471e-8614-afa2d0fd8d9b.png)
+
 </details>
 
 <details><summary> Process, Voltage and Temperature (PVT) Variations </summary>
