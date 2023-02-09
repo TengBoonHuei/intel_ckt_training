@@ -977,6 +977,56 @@ Two types of VLSI Design Styles:
 
 <details><summary> Process, Voltage and Temperature (PVT) Variations </summary>
   
+  #### Process Variation
+  1. Variation in the process parameters:
+    * Impurity concentration densities
+    * Oxide thicknesses
+    * Diffusion depth
+  
+  * These are caused by non-uniform conditinos during the deposition and/or the diffusion of the impurities.
+  * This introduces the variation of the sheet resistances and threshold voltages of transistor.
+  
+  2. Variation in the dimensions:
+    * Width and length variation of MOS Transistors, resistors and capacitors
+    * Mismatches of emitter area in Bipolar devices.
+  
+  * These are caused by limited resolution of photolithographic process.
+  * This changes this device performance in the circuit.
+  
+    ![image](https://user-images.githubusercontent.com/121993909/217742200-07079848-7111-4f98-ab8f-b79440ad5524.png)
+
+  * 5 process corners
+    * TT : NMOS and PMOS Typical
+    * SS : NMOS and PMOS Slow
+    * FF : NMOS and PMOS Fast
+    * SF : NMOS Slow & PMOS Fast
+    * FS : NMOS Fast & PMOS Slow
+  
+      ![image](https://user-images.githubusercontent.com/121993909/217742873-f6744a1c-e062-43c3-9fcc-8dd01be993dd.png)
+  
+  #### Voltage Variation
+  * There are multiple reasons for voltage variation
+    * IR drop caused by the current flow over the power grid network.
+    * Supply noise caused by parasitic inductance in combination with resistance and capacitance. When the current is flowing through parasitic inductance,L it will cause the voltage bounce.
+  
+  #### Temperature Variation
+  * Two fundamental parameters, carrier mobility µ and threshold voltage Vt varies with temperature.
+  * Carrier mobility decrease with temperature 
+      
+      µ(𝑇) = µ(𝑇𝑟)(𝑇-𝑇𝑟)−𝑘µ
+  
+    Where T is the absolute temperature, 𝑇𝑟 is the room temperature and 𝑘µ is the fitting parameter with a typical value of 1.5
+  
+  * The magnitude of threshold voltage decreases nearly with the temperature and may be approximated by
+  
+      𝑉t(𝑇) = 𝑉t(𝑇𝑟) − 𝑘𝑣𝑡 (𝑇 − 𝑇𝑟)
+  
+      Where, 𝑘𝑣𝑡 is typically about 1-2 mV/K
+  
+  * 𝐼𝑜𝑛 at high Vdd decreases with temperature, sub-threshold leakage increases exponentially with temperature, BTBT increases slowly with temperature and gate leakage is almost independent with temperature.
+  
+      ![image](https://user-images.githubusercontent.com/121993909/217745777-9d17a2bf-6366-4dd1-8b8d-8e09747c6d7f.png)
+  
 </details>
 
 <details><summary> Assignment - Parameter Extraction </summary>
