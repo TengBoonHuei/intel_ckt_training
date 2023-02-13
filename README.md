@@ -1049,6 +1049,6 @@ Two types of VLSI Design Styles:
   
   #### Parameter Extraction
   
-  + **[Parameter Extraction]()**
+  + **[Parameter Extraction](https://drive.google.com/file/d/1PkOz9F3cL_7TrYK7Q5wVCSJ0WdTkHfX4/view?usp=share_link)**
 
 </details>
