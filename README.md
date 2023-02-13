@@ -701,7 +701,7 @@ Two types of VLSI Design Styles:
   
   #### MOSFET with Capacitor
   
-  + **[MOSFET with Capacitor](https://drive.google.com/file/d/17AOIVM4ptb-3r6g5jI1kalYb9TSbbGbs/view?usp=share_link)**
+  + **[MOSFET with Capacitor](https://drive.google.com/file/d/17AOIVM4ptb-3r6g5jI1kalYb9TSbbGbs/view?usp=sharing)**
   
 </details>
 
@@ -842,6 +842,14 @@ Two types of VLSI Design Styles:
   * Sub-threshold Current: Drain-to-source current even when Vgs is smaller than the threshold voltage.
   
     ![image](https://user-images.githubusercontent.com/121993909/216771852-636dc284-b965-4f9e-b1d3-544dd5b8641c.png)
+  
+</details>
+
+<details><summary> Assignment </summary>
+  
+  #### CMOS Inverter Simulation
+  
+  + **[CMOS inverter simulation]()**
   
 </details>
  
