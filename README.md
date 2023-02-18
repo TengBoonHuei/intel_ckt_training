@@ -109,7 +109,7 @@ This repo will be used of deposition of training documentations.
   
   <details><summary> Assignment </summary>
   
-  [Assignment - Combinational Logic Circuit Simulation]()
+  [Assignment - Combinational Logic Circuit Simulation](https://github.com/TengBoonHuei/intel_ckt_training/blob/main/README.md#combinational-logic-circuits-simulation)
   
   </details>
   
