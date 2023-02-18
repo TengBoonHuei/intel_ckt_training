@@ -100,7 +100,7 @@ This repo will be used of deposition of training documentations.
   
   </details>
   
-+ **[Day 9 - Combinational Digital Logic Circuits]()**
++ **[Day 9 - Combinational Digital Logic Circuits](https://github.com/TengBoonHuei/intel_ckt_training/blob/main/README.md#day-9)**
   <details><summary> Theory </summary>
   
   [Theory - Combinational Digital Logic Circuits]()
@@ -1068,11 +1068,42 @@ Two types of VLSI Design Styles:
 
 ## Day 9
 ## Theory - Combinational Digital Logic Circuits
-<details><summary> </summary>
+<details><summary> Complementary Logic Circuits </summary>
+  
+  #### Structure of Complementary Logic Circuit
+  * Combination of two networks called pull-up network, PUN and pull-down network, PDN.
+  * PUN provides connection between the output and the VDD when the output of the logic gate is meant to be HIGH.
+  * PDN provides connection between the output and the GND when the output of the logic gate is meant to be LOW.
+  * PUN is constructed using PMOS devices, and PDN is constructed using NMOS devices.
+  
+    ![image](https://user-images.githubusercontent.com/121993909/219842951-a902e0f5-4f9a-4339-8876-c5d3a32d752c.png)
+  
+  #### 2-Inputs NAND Gate
+  * 2x pull-up parallel PMOS transistors and 2x pull-down series NMOS transistors
+  * As PDN NMOS are connected in series, when output changed from 1->0, the high-to-low transition time, Tphl = 0.69 * 2Rn * Cload.
+  * For PUN PMOS ccoeencted in parallel, there are two cases:
+    * Both input = 0: Tplh = 0.69 * 1/2Rp * Cload
+    * Either one input = 0: Tplh = 0.69 * Rp * Cload
+  * To balance the charge/discharge time of both PUN and PDN, we need to increase the NMOS size to reduce the resistance and discharge time when output transition from high-to-low.
+  
+    ![image](https://user-images.githubusercontent.com/121993909/219843551-2692889d-4edd-49e2-9388-493d9f97d51d.png)
+
+  #### 2-Inputs NOR Gate
+  * 2x pull-up series PMOS transistors and 2x pull-down parallel NMOS transistors
+  * As PUN PMOS are connected in series, when output changed from 0->1, the low-to-highh transition time, Tplh = 0.69 * 2Rp * Cload.
+  * For PDN NMOS ccoeencted in parallel, there are two cases:
+    * Both input = 1: Tphl = 0.69 * 1/2Rn * Cload
+    * Either one input = 1: Tphl = 0.69 * Rn * Cload
+  * To balance the charge/discharge time of both PUN and PDN, we need to increase the PMOS size to reduce the resistance and charge time when output transition from low-to-high.
+  
+    ![image](https://user-images.githubusercontent.com/121993909/219843714-a945170a-0ae6-4706-9dda-6636fc067eb5.png)
+
 <details>
 
-<details><summary> Assignment </summary>
+<details><summary> Assignment - Combinational Logic Circuits Simulation </summary>
   
-  Assignment - Combinational Logic Circuits Simulation
+  #### Combinational Logic Circuits Simulation
+  
+  + **[Combinational Logic Circuits Simulation]()**
   
 </details>
