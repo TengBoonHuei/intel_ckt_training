@@ -1099,6 +1099,41 @@ Two types of VLSI Design Styles:
     ![image](https://user-images.githubusercontent.com/121993909/219843714-a945170a-0ae6-4706-9dda-6636fc067eb5.png)
 
 </details>
+  
+<details><summary> Complex Logic Circuits </summary>
+  
+  #### AOI & OAI
+  * AOI (AND-OR-INVERT) : Enables the sum-of-product realization of a Boolean function.
+  * OAI (OR-AND-INVERT) : Enables the product-of-sum realization of a Boolean function.
+  
+    ![image](https://user-images.githubusercontent.com/121993909/219843978-6a528817-1df2-4a28-bd46-25f45244d989.png)
+
+</details>
+  
+<details><summary> CMOS Transmission Gate </summary>
+  
+  #### Struture of CMOS Transmission Gate
+  * CMOS transmission gate consists of one NMOS ans one PMOS transistor connected in parallel.
+  * The gate voltages applied to these two transistors are also set to be complementary signals.
+  * The CMOS transmission gate operates as a bi-directional switch between input and output nodes, that is controlled by gate voltages.
+  * The main advantages of using CMOS transmission gate to make combinational circuit is to reduce transistor counts.
+  
+    ![image](https://user-images.githubusercontent.com/121993909/219845045-25ee3922-852c-41c8-85f8-f18412bdb3e5.png)
+  
+  #### Combinational Circuit using Transmission Gate
+  * XOR Gate
+  
+    ![image](https://user-images.githubusercontent.com/121993909/219845307-706d2847-c48c-4b41-ad9e-f108ba9fd9b3.png)
+
+  * XNOR Gate
+    
+    ![image](https://user-images.githubusercontent.com/121993909/219845327-3c63f758-83d2-4f79-b34f-16b0c5299f51.png)
+
+  * 2:1 MUX
+  
+    ![image](https://user-images.githubusercontent.com/121993909/219845351-260c7dec-7e9a-4ba0-96b1-d59039996119.png)
+
+</details>
 
 <details><summary> Assignment - Combinational Logic Circuits Simulation </summary>
   
