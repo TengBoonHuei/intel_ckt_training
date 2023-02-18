@@ -103,7 +103,7 @@ This repo will be used of deposition of training documentations.
 + **[Day 9 - Combinational Digital Logic Circuits](https://github.com/TengBoonHuei/intel_ckt_training/blob/main/README.md#day-9)**
   <details><summary> Theory </summary>
   
-  [Theory - Combinational Digital Logic Circuits]()
+  [Theory - Combinational Digital Logic Circuits](https://github.com/TengBoonHuei/intel_ckt_training/blob/main/README.md#theory---combinational-digital-logic-circuits)
   
   </details>
   
@@ -1098,7 +1098,7 @@ Two types of VLSI Design Styles:
   
     ![image](https://user-images.githubusercontent.com/121993909/219843714-a945170a-0ae6-4706-9dda-6636fc067eb5.png)
 
-<details>
+</details>
 
 <details><summary> Assignment - Combinational Logic Circuits Simulation </summary>
   
