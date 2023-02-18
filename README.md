@@ -100,6 +100,19 @@ This repo will be used of deposition of training documentations.
   
   </details>
   
++ **[Day 9 - Combinational Digital Logic Circuits]()**
+  <details><summary> Theory </summary>
+  
+  [Theory - Combinational Digital Logic Circuits]()
+  
+  </details>
+  
+  <details><summary> Assignment </summary>
+  
+  [Assignment - Combinational Logic Circuit Simulation]()
+  
+  </details>
+  
 ## Day 1
 ## Theory - Overview of VLSI Design
 
@@ -1051,4 +1064,15 @@ Two types of VLSI Design Styles:
   
   + **[Parameter Extraction](https://drive.google.com/file/d/1PkOz9F3cL_7TrYK7Q5wVCSJ0WdTkHfX4/view?usp=share_link)**
 
+</details>
+
+## Day 9
+## Theory - Combinational Digital Logic Circuits
+<details><summary> </summary>
+<details>
+
+<details><summary> Assignment </summary>
+  
+  Assignment - Combinational Logic Circuits Simulation
+  
 </details>
