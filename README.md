@@ -116,7 +116,7 @@ This repo will be used of deposition of training documentations.
 + **[Day 10 - Sequential Digital Logic Circuits](https://github.com/TengBoonHuei/intel_ckt_training/blob/main/README.md#day-10)**
   <details><summary> Theory </summary>
   
-  [Theory - Sequential Digital Logic Circuits]()
+  [Theory - Sequential Digital Logic Circuits](https://github.com/TengBoonHuei/intel_ckt_training/blob/main/README.md#theory---sequential-digital-logic-circuits)
   
   </details>
   
@@ -1179,4 +1179,26 @@ Two types of VLSI Design Styles:
   
     ![image](https://user-images.githubusercontent.com/121993909/220933766-d1759fde-9da5-4ce0-87ad-71047ece7801.png)
   
+</details>
+  
+<details><summary> SR Latch </summary>
+  
+  * SR Latch
+  
+    ![image](https://user-images.githubusercontent.com/121993909/220935329-5ac812e0-08ec-4eff-98ea-c33b3b39e9dc.png)
+
+  * Clocked SR Latch
+  
+    * NOR-based SR Latch circuit with active HIGH inputs
+  
+      ![image](https://user-images.githubusercontent.com/121993909/220936279-fd386ba3-ddbb-49f1-ba9e-8c3e39af05c2.png)
+
+    * NAND-based SR Latch circuit with active LOW inputs
+  
+      ![image](https://user-images.githubusercontent.com/121993909/220936594-851bff14-220b-43ce-8007-6571498b2c9c.png)
+
+    * NAND-based Clocked SR Latch with active HIGH inputs
+  
+      ![image](https://user-images.githubusercontent.com/121993909/220936944-ebdd9939-991a-43ee-9fb6-47a76c3b47a6.png)
+
 </details>
