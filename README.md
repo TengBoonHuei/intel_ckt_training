@@ -1233,3 +1233,22 @@ Two types of VLSI Design Styles:
     ![image](https://user-images.githubusercontent.com/121993909/220947467-3219a1de-df6f-45bf-87f7-b78cbd2c0a09.png)
 
 </details>
+
+<details><summary> D-Flip-Flop </summary>
+  
+  * Flip-flop building blocks include Inverters and Transmission Gates.
+  
+    ![image](https://user-images.githubusercontent.com/121993909/220949400-a44770aa-217e-480a-895e-1f4577cc852a.png)
+
+    * This is a positive edge D-Flip-flop
+    * Here the Maste latch is a negative level latch and the Slave latch is a positive level latch.
+  
+  * When CK = LOW
+    * TG1 is OFF and TG2 is ON, Master Latch is latch mode.
+    * TG3 is ON and TG4 is OFF, Slave latch in transparent mode. So Q = D.
+  
+  * When CK = HIGH
+    * TG1 is ON and TG2 is OFF, Master latch is transparent mode.
+    * TG3 is OFF and TG4 is ON, Slave latch is in latch mode. So Q = last data.
+  
+</details>
