@@ -113,7 +113,7 @@ This repo will be used of deposition of training documentations.
   
   </details>
   
-+ **[Day 10 - Sequential Digital Logic Circuits]()**
++ **[Day 10 - Sequential Digital Logic Circuits](https://github.com/TengBoonHuei/intel_ckt_training/blob/main/README.md#day-10)**
   <details><summary> Theory </summary>
   
   [Theory - Sequential Digital Logic Circuits]()
@@ -1159,6 +1159,7 @@ Two types of VLSI Design Styles:
 ## Day 10
 ## Theory - Sequential Digital Logic Circuits
 <details><summary> Structure of Sequential Logic Circuit </summary>
+  
   * The output of the circuit depends upon the current values of the inputs as well as previous input values.
   * Sequential circuit remembers some of the past history of the system, it has memory.
   * Critical components of sequential systems are the basic regenerative circuits, which can be classiied into three main groups:
@@ -1175,4 +1176,5 @@ Two types of VLSI Design Styles:
   * If the circuit is initially operating at one of these two stable points, it will preserve this state unless it is forced externally to change its operating points.
   * Gain at two stable points are less than 1.
   * Gaib at unstable point is larger than 1 in both the inverters. That means, a small perturbation at the input of any o the inverters will be ampliied, causing the operating point to move to one of the stable operating points.
+  
 </details>
