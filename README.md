@@ -1202,3 +1202,22 @@ Two types of VLSI Design Styles:
       ![image](https://user-images.githubusercontent.com/121993909/220936944-ebdd9939-991a-43ee-9fb6-47a76c3b47a6.png)
 
 </details>
+  
+<details><summary> JK Latch & JK Flip Flop </summary>
+  
+  #### JK Latch
+  
+  * If both inputs are equal to logic 1 during the ative phase of clock pulse, the output of the circuit will oscillate (toggle) continuously until either the clock becomes inactive (goes to zero), or one  of the input signals goes to zero.
+  * To prevent this undesirable timing problem, the clock pulse width must be made smaller than the input-to-output propagation delay of JK Latch circuit.
+  
+    ![image](https://user-images.githubusercontent.com/121993909/220941222-7233579a-3389-4354-89a9-7ceb3813d8c2.png)
+
+  #### Master-Slave JK Flip-Flop
+  
+  * Most of the timing limitiations encountered in the JK Latch can be prevented by using two latch stages in cascaded configutation.
+  * The input latch, called Master is activated when the clock pulse is high.
+  * The output latch, called Slave is activated when the clock pulse is low.
+  
+    ![image](https://user-images.githubusercontent.com/121993909/220945714-bc28cbf3-1d3d-461c-8bd8-b43a97ee67f7.png)
+
+</details>
