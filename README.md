@@ -1177,4 +1177,6 @@ Two types of VLSI Design Styles:
   * Gain at two stable points are less than 1.
   * Gaib at unstable point is larger than 1 in both the inverters. That means, a small perturbation at the input of any o the inverters will be ampliied, causing the operating point to move to one of the stable operating points.
   
+    ![image](https://user-images.githubusercontent.com/121993909/220933766-d1759fde-9da5-4ce0-87ad-71047ece7801.png)
+  
 </details>
