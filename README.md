@@ -113,6 +113,19 @@ This repo will be used of deposition of training documentations.
   
   </details>
   
++ **[Day 10 - Sequential Digital Logic Circuits]()**
+  <details><summary> Theory </summary>
+  
+  [Theory - Sequential Digital Logic Circuits]()
+  
+  </details>
+  
+  <details><summary> Assignment </summary>
+  
+  [Assignment - Sequential Logic Circuits Simulation]()
+  
+  </details>
+  
 ## Day 1
 ## Theory - Overview of VLSI Design
 
@@ -1137,8 +1150,29 @@ Two types of VLSI Design Styles:
 
 <details><summary> Assignment - Combinational Logic Circuits Simulation </summary>
   
-  #### Combinational Logic Circuits Simulation
+  #### Combinational Digital Logic Circuits Simulation
   
-  + **[Combinational Logic Circuits Simulation](https://drive.google.com/file/d/1EIlV4XL-V3b68hP4oAP7Tp36PG-JTrT_/view?usp=share_link)**
+  + **[Combinational Digital Logic Circuits Simulation](https://drive.google.com/file/d/1EIlV4XL-V3b68hP4oAP7Tp36PG-JTrT_/view?usp=share_link)**
   
+</details>
+
+## Day 10
+## Theory - Sequential Digital Logic Circuits
+<details><summary> Structure of Sequential Logic Circuit </summary>
+  * The output of the circuit depends upon the current values of the inputs as well as previous input values.
+  * Sequential circuit remembers some of the past history of the system, it has memory.
+  * Critical components of sequential systems are the basic regenerative circuits, which can be classiied into three main groups:
+    * Bistable circuits
+    * Monostable circuits
+    * Astable circuits
+  * The bistable circuits are widely used: all the latches, flip-flops, registers and memory elements are made through bistable circuits.
+  
+    ![image](https://user-images.githubusercontent.com/121993909/220928579-1d0a40ed-9a1b-44ce-9fa1-6f429a7a4afa.png)
+
+  * Bistable circuit has three operating points:
+    * 2 stable points
+    * 1 unstable point
+  * If the circuit is initially operating at one of these two stable points, it will preserve this state unless it is forced externally to change its operating points.
+  * Gain at two stable points are less than 1.
+  * Gaib at unstable point is larger than 1 in both the inverters. That means, a small perturbation at the input of any o the inverters will be ampliied, causing the operating point to move to one of the stable operating points.
 </details>
