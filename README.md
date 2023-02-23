@@ -1221,3 +1221,15 @@ Two types of VLSI Design Styles:
     ![image](https://user-images.githubusercontent.com/121993909/220945714-bc28cbf3-1d3d-461c-8bd8-b43a97ee67f7.png)
 
 </details>
+
+<details><summary> Conventional CMOS Latches </summary>
+
+  * The robust transparent latches:
+    * The latch is static
+    * All nodes swing rail-to-rail
+    * Sate noise isolated rom output noise
+    * Input drives transistor gate rather than diffusion
+  
+    ![image](https://user-images.githubusercontent.com/121993909/220947467-3219a1de-df6f-45bf-87f7-b78cbd2c0a09.png)
+
+</details>
