@@ -126,7 +126,7 @@ This repo will be used of deposition of training documentations.
   
   </details>
   
-+ **[Day 12 - GPIO Design]()**
++ **[Day 12 - GPIO Design](https://github.com/TengBoonHuei/intel_ckt_training/blob/main/README.md#day-12)**
   <details><summary> Theory </summary>
   
   [Theory - GPIO Design]()
