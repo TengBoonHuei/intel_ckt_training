@@ -1319,7 +1319,7 @@ Two types of VLSI Design Styles:
   
   1. Output mode push-pull
   
-    ![image](https://user-images.githubusercontent.com/121993909/221361808-f935784d-2886-4290-8f8b-9f5a14c4f97a.png)
+  + **![image](https://user-images.githubusercontent.com/121993909/221361808-f935784d-2886-4290-8f8b-9f5a14c4f97a.png)**
 
   2. Output mode open-drain
   
