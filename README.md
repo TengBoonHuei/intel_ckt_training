@@ -122,7 +122,7 @@ This repo will be used of deposition of training documentations.
   
   <details><summary> Assignment </summary>
   
-  [Assignment - Sequential Logic Circuits Simulation]()
+  [Assignment - Sequential Logic Circuits Simulation](https://github.com/TengBoonHuei/intel_ckt_training/blob/main/README.md#sequential-digital-logic-circuit-simulation)
   
   </details>
   
@@ -1257,6 +1257,6 @@ Two types of VLSI Design Styles:
   
   #### Sequential Digital Logic Circuit Simulation
   
-  + **[Sequential Digital Logic Circtuit Simulation](https://drive.google.com/file/d/1f4NfnmUXwW2y4m6mNUZmIJMCKLrHEZkW/view?usp=share_link)
++ **[Sequential Digital Logic Circtuit Simulation](https://drive.google.com/file/d/1f4NfnmUXwW2y4m6mNUZmIJMCKLrHEZkW/view?usp=share_link)
   
 </details>
