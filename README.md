@@ -1318,15 +1318,15 @@ Two types of VLSI Design Styles:
   #### Output Buffer
   1. Output mode push-pull
   
-    * ![image](https://user-images.githubusercontent.com/121993909/221361808-f935784d-2886-4290-8f8b-9f5a14c4f97a.png)
+  ![image](https://user-images.githubusercontent.com/121993909/221361808-f935784d-2886-4290-8f8b-9f5a14c4f97a.png)
 
   2. Output mode open-drain
   
-    * ![image](https://user-images.githubusercontent.com/121993909/221361830-d9c5ad1b-0a1f-4ca5-be3f-4378c221b7ef.png)
+  ![image](https://user-images.githubusercontent.com/121993909/221361830-d9c5ad1b-0a1f-4ca5-be3f-4378c221b7ef.png)
 
   3. Output mode with pull-up resistor
   
-    * ![image](https://user-images.githubusercontent.com/121993909/221361855-0e6ae88c-d03b-4083-b68d-77e55e7ccf0c.png)
+  ![image](https://user-images.githubusercontent.com/121993909/221361855-0e6ae88c-d03b-4083-b68d-77e55e7ccf0c.png)
 
   #### Input Buffer
   1. Input mode with floating pin
@@ -1334,13 +1334,13 @@ Two types of VLSI Design Styles:
     * might have very worst noise coming from the pin
     * hence, instead of using inverter buffer but using scmitt trigger as buffer
   
-    * ![image](https://user-images.githubusercontent.com/121993909/221362069-40726dbb-1b91-4973-9bd9-37126420145c.png)
+  ![image](https://user-images.githubusercontent.com/121993909/221362069-40726dbb-1b91-4973-9bd9-37126420145c.png)
 
   2. Input mode with pin connected to Vss or Vdd
   
     * as there might have input noise, and this input noise will cause leakage because of both PMOS and NMOS turned on at the same time shorting vdd to vss.
     * To avoid leakage, we can either terminate the pin to vss or vdd. So, either of PMOS or NMOS will turn off, and will not have leakage from vdd to vss.
   
-    * ![image](https://user-images.githubusercontent.com/121993909/221362323-477e0d52-fdf8-429d-984f-013b873c86cf.png)
+  ![image](https://user-images.githubusercontent.com/121993909/221362323-477e0d52-fdf8-429d-984f-013b873c86cf.png)
     
 </details>
