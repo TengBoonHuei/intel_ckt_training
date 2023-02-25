@@ -1257,6 +1257,6 @@ Two types of VLSI Design Styles:
   
   #### Sequential Digital Logic Circuit Simulation
   
-+ **[Sequential Digital Logic Circtuit Simulation](https://drive.google.com/file/d/1f4NfnmUXwW2y4m6mNUZmIJMCKLrHEZkW/view?usp=share_link)
+  + **[Sequential Digital Logic Circtuit Simulation](https://drive.google.com/file/d/1f4NfnmUXwW2y4m6mNUZmIJMCKLrHEZkW/view?usp=share_link)**
   
 </details>
