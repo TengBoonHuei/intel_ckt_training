@@ -1252,3 +1252,11 @@ Two types of VLSI Design Styles:
     * TG3 is OFF and TG4 is ON, Slave latch is in latch mode. So Q = last data.
   
 </details>
+
+<details><summary> Assignment </summary>
+  
+  #### Assignment - Sequential Digital Logic Circuit Simulation
+  
+  * Sequential Digital Logic Circuit Simulation(https://drive.google.com/file/d/1f4NfnmUXwW2y4m6mNUZmIJMCKLrHEZkW/view?usp=share_link)
+  
+</details>
