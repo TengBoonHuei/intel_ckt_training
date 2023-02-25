@@ -126,6 +126,19 @@ This repo will be used of deposition of training documentations.
   
   </details>
   
++ **[Day 12 - GPIO Design]()**
+  <details><summary> Theory </summary>
+  
+  [Theory - GPIO Design]()
+  
+  </details>
+  
+  <details><summary> Assignment </summary>
+  
+  [Assignment - ]()
+  
+  </details>
+  
 ## Day 1
 ## Theory - Overview of VLSI Design
 
@@ -1259,4 +1272,33 @@ Two types of VLSI Design Styles:
   
   + **[Sequential Digital Logic Circtuit Simulation](https://drive.google.com/file/d/1f4NfnmUXwW2y4m6mNUZmIJMCKLrHEZkW/view?usp=share_link)**
   
+</details>
+
+## Day 12
+## Theory - GPIO Design
+<details><summary> Basics of Critical Voltage for Noise Margin </summary>
+  
+  #### Basics of Critical Voltage for Noise Margin
+  
+  * In a system, there are interconnections between device-to-device and will interfered by the noises due to existing of parasitic capacitances.
+  * For that, we need to understand the noise margin of the device that can sustain the input noise and make a proper transition to the output.
+  
+    ![image](https://user-images.githubusercontent.com/121993909/221361016-12590cb2-10a0-4e27-963a-f338b9a0c8be.png)
+
+  * Noise Margin High = VOH - VIH
+  * Noise Margin Low = VIL - VOL
+  
+    ![image](https://user-images.githubusercontent.com/121993909/221361129-e56b4d9e-1486-47a6-9583-df188758dd51.png)
+  
+  * VOH: Minimum output voltage considered as logic "HIGH"
+  * VOL: Maximum output voltage considered as logic "LOW"
+  * VIH: Minimum input voltage considered as logic "HIGH"
+  * VIL: Maximum input voltage considered as logic "LOW"
+  
+    ![image](https://user-images.githubusercontent.com/121993909/221361334-bd176020-b804-45fc-9e7f-fd8cdc223c73.png)
+
+  #### Input and Output Logic Levels
+  
+  * ![image](https://user-images.githubusercontent.com/121993909/221361471-5e1b84fb-f813-42fd-9e8a-055dc65f18a7.png)
+
 </details>
