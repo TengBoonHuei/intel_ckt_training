@@ -1366,8 +1366,19 @@ Two types of VLSI Design Styles:
   * Cint represents the self-loading or intrinsi capacitane, where Cext represents the external load capacitance attributable to fanout and wiring capacitance.
   * Assuming that the Req stands for equivalent on resistance of the gate, we can express the propagation delay as
   
-    ** tp = 0.69 * Req (Cint + Cext) = 0.69 * Req * Cint (1 + Cext/Cint)
+    * tp = 0.69 * Req (Cint + Cext) = 0.69 * Req * Cint (1 + Cext / Cint)
   
-    ** tp = tp0 (1 + ext/Cint), where tp0 is called intrisic or unloaded delay.
+    * tp = tp0 (1 + ext / Cint), where tp0 is called intrisic or unloaded delay.
+  
+  #### Transistor Sizing Impact the Performance
+  
+  * By changing the transistor size, the relationship between the Cint and Req to the sizing factor, S is:
+  
+    * Cint = S * Ciref
+  
+    * Req = Req / S
+  
+  * Hence, tp = 0.69 (Req / S) * S * Ciref (1 + Cext / S * Ciref) = tp0 (1 + Cext / S * Ciref)
+  * In conclusion, the performance will increases with the increasing of sizing factor S.
   
 </details>
