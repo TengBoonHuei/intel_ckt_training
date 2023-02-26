@@ -1381,4 +1381,41 @@ Two types of VLSI Design Styles:
   * Hence, tp = 0.69 (Req / S) * S * Ciref (1 + Cext / S * Ciref) = tp0 (1 + Cext / S * Ciref)
   * In conclusion, the performance will increases with the increasing of sizing factor S.
   
+    ![image](https://user-images.githubusercontent.com/121993909/221411104-a6b435a7-3259-4f35-b38c-dba40186f1f2.png)
+
+  #### Sizing a Chain of Inverter
+  
+  * 𝐶𝑖𝑛𝑡 = γ𝐶𝑖𝑛, where γ is proportionality constant
+  * 𝑡𝑝 = 𝑡𝑝0 (1 + 𝐶𝑒𝑥𝑡 / γ𝐶𝑖𝑛) = 𝑡𝑝0 (1 + 𝑓 / γ), where 𝑓 is efective fanout.
+  
+  * The goal is to minimize the delay through the inverter chain.
+  
+  * Delay expression for jth inverter stage:
+    * 𝑡𝑝𝑗 = 𝑡𝑝0 (1 + 𝐶𝑖𝑛,𝑗+1 / γ𝐶𝑖𝑛,𝑗) = 𝑡𝑝0 (1 + 𝑓𝑗 / γ)
+  
+  * Total delay of the chain:
+    * ![image](https://user-images.githubusercontent.com/121993909/221412284-fe518a60-634b-457b-be81-e7b93163f8a9.png)
+
+  * The optimum size of each inverter is the geometric mean of its neighbors size:
+    * 𝐶𝑖𝑛,𝑗 = sqrt(𝐶𝑖𝑛,𝑗−1 * 𝐶𝑖𝑛,𝑗+1)
+  
+  * This eans that each inverter is sized up by the same factor 𝑓 with respect to the preceding gate, has the same effective fanout (𝑓𝑖 = 𝑓), hancce the same delay.
+  
+  * With Cin1 and Cload given, we can derive the sizing factor:
+    * 𝑓 = 𝑁^sqrt(𝐶𝐿 / 𝐶𝑖𝑛1) = 𝑁^sqrt(𝐹)
+ 
+  * And the minimum delay through the chain:
+    * 𝑡𝑝 = 𝑁𝑡𝑝0 (1 + 𝑁^sqrt(𝐹) / γ), where 𝐹 is overall effective fanout.
+  
+  #### Choosing the Right Number of Stages
+  * The final 𝑡𝑝 expression reveals the trade-offs in choosing the number of stages for a given 𝐹 (𝑓^𝑁)
+  
+    * 𝑡𝑝 = 𝑁𝑡𝑝0 (1 + 𝑁^sqrt(𝐹) / γ)
+  
+  * If the number of stages are too high, the first component of the expression, representing the intrinsic delay, becomes dominant.
+  * If the number of stages is too small, the efetive fanout o each stage becomes large and the second component is dominant.
+  * The optimum number of N can be ound by differentiating the minimum delay expression by the number of stages and setting the result to 0:
+  
+    * ![image](https://user-images.githubusercontent.com/121993909/221413043-79dca66e-7576-4709-8531-e86b8632b18a.png)
+
 </details>
