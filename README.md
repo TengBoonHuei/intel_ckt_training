@@ -1347,7 +1347,7 @@ Two types of VLSI Design Styles:
     
 </details>
 
-<details><summary> Transmitter Driver (TX)
+<details><summary> Transmitter Driver (TX) </summary>
   
   ####  Transmitter Driver
   
