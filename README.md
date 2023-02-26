@@ -1346,3 +1346,28 @@ Two types of VLSI Design Styles:
   + **![image](https://user-images.githubusercontent.com/121993909/221362323-477e0d52-fdf8-429d-984f-013b873c86cf.png)**
     
 </details>
+
+<details><summary> Transmitter Driver (TX)
+  
+  ####  Transmitter Driver
+  
+  * A driver of bufers drives the output load and send signal to the output smoothly.
+  * As the I/O pin's physical dimension is huge compared to the core circuitry, the pin parasitic or pin capacitance is huge (10s of pF)
+  * To drive such a huge capacitive load, a huge output current is required, which leads the output inverter size to be huge.
+  * The huge inverter size also creates the loading effect on the previous stage, which degrades the signal or increases delay and not able to perorm in high frequencies.
+  * Hence, we need to design a buffer chain to reduce the loading effect of every stage from core to output pin.
+  
+    ![image](https://user-images.githubusercontent.com/121993909/221409688-d4a2250a-8f6f-42a1-a3a3-8f7590381743.png)
+
+  #### Buffer Chain Design
+  
+  * In this analysis, we assume a symmetrical inverter where PMOS and NMOS are sized such a way that the rise and fall delay are indentical.
+  * Cload = Cint + Cext
+  * Cint represents the self-loading or intrinsi capacitane, where Cext represents the external load capacitance attributable to fanout and wiring capacitance.
+  * Assuming that the Req stands for equivalent on resistance of the gate, we can express the propagation delay as
+  
+    ** tp = 0.69 * Req (Cint + Cext) = 0.69 * Req * Cint (1 + Cext/Cint)
+  
+    ** tp = tp0 (1 + ext/Cint), where tp0 is called intrisic or unloaded delay.
+  
+</details>
