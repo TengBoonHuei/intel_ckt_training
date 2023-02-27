@@ -139,6 +139,19 @@ This repo will be used of deposition of training documentations.
   
   </details>
   
++ **[Day 13 - CMOS Schmitt Trigger]()**
+  <details><summary> Theory </summary>
+  
+  [Theory - CMOS Schmitt Trigger]()
+  
+  </details>
+  
+  <details><summary> Assignment </summary>
+  
+  [Assignment - ]()
+  
+  </details>
+  
 ## Day 1
 ## Theory - Overview of VLSI Design
 
@@ -1418,4 +1431,47 @@ Two types of VLSI Design Styles:
   
     * ![image](https://user-images.githubusercontent.com/121993909/221413043-79dca66e-7576-4709-8531-e86b8632b18a.png)
 
+</details>
+
+## Day 13
+## Theory - CMOS Shcmitt Trigger
+<details><summary> Introdution of Schmitt Trigger </summary>
+* The output of a Schmitt tigger changes state when a positive going input passes upper trigger point voltage (Vth) and when negative going input passes the lower trigger point voltage (Vtl).
+
+  ![image](https://user-images.githubusercontent.com/121993909/221570020-136f33f5-f36e-47e5-984b-a7f4444ca917.png)
+
+* Application of Schmitt Trigger circuit
+  * Noise redution
+  * Pulse width preserving
+  * Pulse stretching
+  * Conversion of continuous wave to square wave
+  * Relaxation Oscillator
+</details>
+
+<details><summary> Schmitt Trigger </summary>
+* Schmitt Trigger circuit
+
+  ![image](https://user-images.githubusercontent.com/121993909/221571736-562eb7e3-b04e-4857-be93-1891e7abb57f.png)
+
+* Rising Input Vin = 0 -> Vdd
+  * Region I: N2 = Saturated; N1 & N0 = cut-off
+  * Region II: N2 = Saturated; N0 = Saturated; VGSN1 < VthN1; N1 = cut-off
+  * Region III: N2 = Saturated; N0 = Full-On; VGSN1 > VthN1; N1 = Saturated
+  
+    ![image](https://user-images.githubusercontent.com/121993909/221575469-8d078705-e568-4301-8a89-4183f8091103.png)
+
+* Falling Input Vin = Vdd -> 0
+  * Region IV: P2 = Saturated; P1 & P0 = Cut-off
+  * Region V: P2 = Saturated; P0 = Satuated; VSGP1 < |VthP1|; P1 = cut-off
+  * Region VI: P2 = Saturated; P0 = Full-On; VGSP1 > |VthP1|; P1 = Saturated
+  
+    ![image](https://user-images.githubusercontent.com/121993909/221578654-1f1b57c4-5346-4633-a9df-cd52027919be.png)
+
+* Schmitt Trigger Vout vs Vin Characteristic
+
+  ![image](https://user-images.githubusercontent.com/121993909/221579043-f71c3fb6-9bd7-4a99-abb4-81883104e5ec.png)
+
+* Inrease the width of P2 & N2 will gives higer Vth and lower Vtl
+
+  ![image](https://user-images.githubusercontent.com/121993909/221580474-b2f49ba2-3445-43fe-bd9f-78ffa8594609.png)
 </details>
