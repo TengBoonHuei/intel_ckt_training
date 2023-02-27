@@ -148,7 +148,7 @@ This repo will be used of deposition of training documentations.
   
   <details><summary> Assignment </summary>
   
-  [Assignment - Schmitt Trigger]()
+  [Assignment - Schmitt Trigger](https://github.com/TengBoonHuei/intel_ckt_training/blob/main/README.md#schmitt-trigger)
   
   </details>
   
@@ -1449,6 +1449,7 @@ Two types of VLSI Design Styles:
 </details>
 
 <details><summary> Schmitt Trigger </summary>
+  
 * Schmitt Trigger circuit
 
   ![image](https://user-images.githubusercontent.com/121993909/221571736-562eb7e3-b04e-4857-be93-1891e7abb57f.png)
@@ -1474,12 +1475,13 @@ Two types of VLSI Design Styles:
 * Increase the width of P2 & N2 will gives higer Vth and lower Vtl
 
   ![image](https://user-images.githubusercontent.com/121993909/221580474-b2f49ba2-3445-43fe-bd9f-78ffa8594609.png)
+  
 </details>
 
 <details><summary> Assignment </summary>
   
   #### Schmitt Trigger
   
-  + **[Schmitt Trigger Simulation]()**
+  + **[Schmitt Trigger Simulation](https://drive.google.com/file/d/1h6UWyfDskOQW9kkMUjVES-_xiP8DgpjK/view?usp=share_link)**
   
 </details>
