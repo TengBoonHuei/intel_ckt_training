@@ -142,7 +142,7 @@ This repo will be used of deposition of training documentations.
 + **[Day 13 - CMOS Schmitt Trigger](https://github.com/TengBoonHuei/intel_ckt_training/blob/main/README.md#day-13)**
   <details><summary> Theory </summary>
   
-  [Theory - CMOS Schmitt Trigger]()
+  [Theory - CMOS Schmitt Trigger](https://github.com/TengBoonHuei/intel_ckt_training/blob/main/README.md#theory---cmos-shcmitt-trigger)
   
   </details>
   
@@ -1477,7 +1477,9 @@ Two types of VLSI Design Styles:
 </details>
 
 <details><summary> Assignment </summary>
+  
   #### Schmitt Trigger
   
   + **[Schmitt Trigger Simulation]()**
+  
 </details>
