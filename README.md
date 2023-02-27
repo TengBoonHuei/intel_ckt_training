@@ -139,7 +139,7 @@ This repo will be used of deposition of training documentations.
   
   </details>
   
-+ **[Day 13 - CMOS Schmitt Trigger]()**
++ **[Day 13 - CMOS Schmitt Trigger](https://github.com/TengBoonHuei/intel_ckt_training/blob/main/README.md#day-13)**
   <details><summary> Theory </summary>
   
   [Theory - CMOS Schmitt Trigger]()
@@ -148,7 +148,7 @@ This repo will be used of deposition of training documentations.
   
   <details><summary> Assignment </summary>
   
-  [Assignment - ]()
+  [Assignment - Schmitt Trigger]()
   
   </details>
   
@@ -1471,7 +1471,13 @@ Two types of VLSI Design Styles:
 
   ![image](https://user-images.githubusercontent.com/121993909/221579043-f71c3fb6-9bd7-4a99-abb4-81883104e5ec.png)
 
-* Inrease the width of P2 & N2 will gives higer Vth and lower Vtl
+* Increase the width of P2 & N2 will gives higer Vth and lower Vtl
 
   ![image](https://user-images.githubusercontent.com/121993909/221580474-b2f49ba2-3445-43fe-bd9f-78ffa8594609.png)
+</details>
+
+<details><summary> Assignment </summary>
+  #### Schmitt Trigger
+  
+  + **[Schmitt Trigger Simulation]()**
 </details>
