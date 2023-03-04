@@ -152,7 +152,7 @@ This repo will be used of deposition of training documentations.
   
   </details>
   
-+ **[Day 14 - Current Mirror]()**
++ **[Day 14 - Current Mirror](https://github.com/TengBoonHuei/intel_ckt_training/blob/main/README.md#day-14)**
   <details><summary> Theory </summary>
   
   [Theory - Current Mirror]()
