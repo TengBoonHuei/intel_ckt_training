@@ -152,6 +152,19 @@ This repo will be used of deposition of training documentations.
   
   </details>
   
++ **[Day 14 - Current Mirror]()**
+  <details><summary> Theory </summary>
+  
+  [Theory - Current Mirror]()
+  
+  </details>
+  
+  <details><summary> Assignment </summary>
+  
+  [Assignment - Current Mirror]()
+  
+  </details>
+  
 ## Day 1
 ## Theory - Overview of VLSI Design
 
@@ -1491,5 +1504,21 @@ Two types of VLSI Design Styles:
   #### Schmitt Trigger
   
   + **[Schmitt Trigger Simulation](https://drive.google.com/file/d/1h6UWyfDskOQW9kkMUjVES-_xiP8DgpjK/view?usp=share_link)**
+  
+</details>
+
+## Day 14
+## Theory - Current Mirror
+<details><summary> Current Mirror </summary>
+  
+  + **[Current Mirror Notes](https://drive.google.com/file/d/1ir307ZrtQx_t5l2L-vCFQFBvu_wZD4Tk/view?usp=share_link)**
+  
+</details>
+  
+<details><summary> Assignment </summary>
+  
+  #### Current Mirror
+  
+  + **[Current Mirror](https://drive.google.com/file/d/19KmaX9tKI5PuecoBclGPnpAvmFLbtqFs/view?usp=share_link)**
   
 </details>
