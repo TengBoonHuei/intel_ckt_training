@@ -135,7 +135,7 @@ This repo will be used of deposition of training documentations.
   
   <details><summary> Assignment </summary>
   
-  [Assignment - ]()
+  [Assignment - TX Driver Inverter Chain](https://github.com/TengBoonHuei/intel_ckt_training/blob/main/README.md#tx-driver-inverter-chain)
   
   </details>
   
