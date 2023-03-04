@@ -1432,6 +1432,14 @@ Two types of VLSI Design Styles:
     * ![image](https://user-images.githubusercontent.com/121993909/221413043-79dca66e-7576-4709-8531-e86b8632b18a.png)
 
 </details>
+  
+<details><Summary> Assignment </summary>
+  
+  #### TX Driver Inverter Chain
+  
+  + **[TX Driver Inverter Chain](https://drive.google.com/file/d/1JtTXaJ3f-lgBeSB7Vg9sDCNvcU2hcXA9/view?usp=share_link)**
+  
+</details>
 
 ## Day 13
 ## Theory - CMOS Shcmitt Trigger
