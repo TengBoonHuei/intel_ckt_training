@@ -165,6 +165,19 @@ This repo will be used of deposition of training documentations.
   
   </details>
   
++ **[Day 15 - Single Ended and Differential Amplifier]()**
+  <details><summary> Theory </summary>
+  
+  [Theory - Single Ended and Differential Amplifier]()
+  
+  </details>
+  
+  <details><summary> Assignment </summary>
+  
+  [Assignment - Design a Differential Amplifier]()
+  
+  </details>
+  
 ## Day 1
 ## Theory - Overview of VLSI Design
 
@@ -1520,5 +1533,21 @@ Two types of VLSI Design Styles:
   #### Current Mirror
   
   + **[Current Mirror](https://drive.google.com/file/d/19KmaX9tKI5PuecoBclGPnpAvmFLbtqFs/view?usp=share_link)**
+  
+</details>
+
+## Day 15
+## Theory - Single Ended and Differential Amplifier
+<details><summary> Single Ended and Differential Amplifier </summary>
+  
+  + **[Single Ended and Differential Amplifier Notes](https://drive.google.com/file/d/15oTcBGVPy_SA4zqfJur_E1uCFY77RgDJ/view?usp=share_link)**
+  
+</details>
+  
+<details><summary> Assignment </summary>
+  
+  #### Differential Amplifier Design
+  
+  + **[Differential Amplifier Design]()**
   
 </details>
