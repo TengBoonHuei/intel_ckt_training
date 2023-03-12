@@ -178,8 +178,8 @@ This repo will be used of deposition of training documentations.
   
   </details>
 
-+ **[Day 16 - Two-Stages Operational Amplifier]()**
-  <details><summary> Theory </summary>
++ **[Day 16 - Two-Stages Operational Amplifier](https://github.com/TengBoonHuei/intel_ckt_training/blob/main/README.md#day-16)**
+  <details><summary> Theory & Assignment </summary>
   
   [Theory & Assignment - Two-Stages Op-Amp Design](https://drive.google.com/file/d/1JZ8MvUFZttdXL1DKgu-30l-T-f4RR-K-/view?usp=share_link)
   
