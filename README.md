@@ -174,7 +174,7 @@ This repo will be used of deposition of training documentations.
   
   <details><summary> Assignment </summary>
   
-  [Assignment - Design a Differential Amplifier]()
+  [Assignment - Design a Differential Amplifier](https://drive.google.com/file/d/1FmXjzenIxBFoiLDl28VwTlQEQb5mcR2x/view?usp=share_link)
   
   </details>
   
@@ -1548,6 +1548,6 @@ Two types of VLSI Design Styles:
   
   #### Differential Amplifier Design
   
-  + **[Differential Amplifier Design]()**
+  + **[Differential Amplifier Design](https://drive.google.com/file/d/1FmXjzenIxBFoiLDl28VwTlQEQb5mcR2x/view?usp=share_link)**
   
 </details>
