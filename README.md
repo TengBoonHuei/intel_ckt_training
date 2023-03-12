@@ -177,6 +177,13 @@ This repo will be used of deposition of training documentations.
   [Assignment - Design a Differential Amplifier](https://drive.google.com/file/d/1FmXjzenIxBFoiLDl28VwTlQEQb5mcR2x/view?usp=share_link)
   
   </details>
+
++ **[Day 16 - Two-Stages Operational Amplifier]()**
+  <details><summary> Theory </summary>
+  
+  [Theory & Assignment - Two-Stages Op-Amp Design](https://drive.google.com/file/d/1JZ8MvUFZttdXL1DKgu-30l-T-f4RR-K-/view?usp=share_link)
+  
+  </details>
   
 ## Day 1
 ## Theory - Overview of VLSI Design
@@ -1549,5 +1556,15 @@ Two types of VLSI Design Styles:
   #### Differential Amplifier Design
   
   + **[Differential Amplifier Design](https://drive.google.com/file/d/1FmXjzenIxBFoiLDl28VwTlQEQb5mcR2x/view?usp=share_link)**
+  
+</details>
+
+## Day 16
+## Theory & Assignment - Two-Stages Op-Amp Design
+<details><summary> Two-Stage Op-Amp Design </summary>
+  
+  #### Two-Stages Op-Amp Design
+  
+  + **[Two-Stage Op-Amp Design](https://drive.google.com/file/d/1JZ8MvUFZttdXL1DKgu-30l-T-f4RR-K-/view?usp=share_link)**
   
 </details>
