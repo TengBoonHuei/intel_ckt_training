@@ -1625,4 +1625,14 @@ Two types of VLSI Design Styles:
   
   ![image](https://user-images.githubusercontent.com/121993909/225251669-541704df-35b8-4952-a3ee-0145e945bf2f.png)
   
+  #### Folded Cascode Op-Amp
+  
+  * Folded cascode Op-Amp ofers:
+    * Self-compensation
+    * good input common mode range
+    * gain of a two-stage Op-Amp
+    * Good Power Supply Rejection Ratio
+  
+    ![image](https://user-images.githubusercontent.com/121993909/225253376-9dfa2580-0525-4985-bed9-e1b733874b73.png)
+  
 </details>
