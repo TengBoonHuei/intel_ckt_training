@@ -1623,6 +1623,6 @@ Two types of VLSI Design Styles:
 
   #### Balanced Two-Stage OpAmp
   
-    ![image](https://user-images.githubusercontent.com/121993909/225251669-541704df-35b8-4952-a3ee-0145e945bf2f.png)
+  ![image](https://user-images.githubusercontent.com/121993909/225251669-541704df-35b8-4952-a3ee-0145e945bf2f.png)
   
 </details>
