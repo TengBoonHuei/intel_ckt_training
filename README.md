@@ -184,6 +184,19 @@ This repo will be used of deposition of training documentations.
   [Theory & Assignment - Two-Stages Op-Amp Design](https://drive.google.com/file/d/1JZ8MvUFZttdXL1DKgu-30l-T-f4RR-K-/view?usp=share_link)
   
   </details>
+
++ **[Day 17 - Folded Cascode Operational Amplifier]()**
+  <details><summary> Theory </summary>
+  
+  [Theory - Folded Cascode Operational Amplifier]()
+  
+  </details>
+  
+  <details><summary> Assignment </summary>
+  
+  [Assignment - Folded Cascode Operational Amplifier Design]()
+  
+  </details>
   
 ## Day 1
 ## Theory - Overview of VLSI Design
@@ -1566,5 +1579,30 @@ Two types of VLSI Design Styles:
   #### Two-Stages Op-Amp Design
   
   + **[Two-Stage Op-Amp Design](https://drive.google.com/file/d/1JZ8MvUFZttdXL1DKgu-30l-T-f4RR-K-/view?usp=share_link)**
+  
+</details>
+
+## Day 17
+## Theory - Folded Cascode Operational Amplifier
+<details><summary> Folded Cascode Operational Amplifier </summary>
+  
+  #### Performance Limitation of Two-Stage Op-Amp
+  
+  1. Limitation of Two-Stage OpAmp:
+  
+    * Insufficient gain
+    * Limited stable bandwidth - Inability to control higher order poles
+    * Poor power supply rejection ratio (PSRR)
+  
+  2. Motivation behind the Cascode Configuration:
+  
+    * Additional gain stage (Not attractive due to instability)
+    * Increasing of transconductance of 1st and 2nd stage (Bias current increases with transconductance : not power efficient)
+    * Increase the output resistance of 1st and 2nd stage (Bias current decreases with Rout : Power efficient)
+  
+    * Rout can be increased dynamically with cascode structure
+      - Cascoding to the 1st stage
+      - Cascoding to the 1st stage followed by a 2nd stage
+      - Folded Cascode
   
 </details>
