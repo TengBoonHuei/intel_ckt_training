@@ -188,7 +188,7 @@ This repo will be used of deposition of training documentations.
 + **[Day 17 - Folded Cascode Operational Amplifier](https://github.com/TengBoonHuei/intel_ckt_training/blob/main/README.md#day-17)**
   <details><summary> Theory </summary>
   
-  [Theory - Folded Cascode Operational Amplifier]()
+  [Theory - Folded Cascode Operational Amplifier](https://github.com/TengBoonHuei/intel_ckt_training/blob/main/README.md#theory---folded-cascode-operational-amplifier)
   
   </details>
   
