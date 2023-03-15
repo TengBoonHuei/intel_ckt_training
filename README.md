@@ -1612,6 +1612,17 @@ Two types of VLSI Design Styles:
     ![image](https://user-images.githubusercontent.com/121993909/225247399-31baf381-26a2-4df3-9287-98c2f4f334e8.png)
 
     ![image](https://user-images.githubusercontent.com/121993909/225247668-5295d30d-42f6-483b-a987-4704a0f1c325.png)
+  
+  #### First Stage Cascoding with a Second Stage
+  
+  * The increased gain is due to the increased output resistance of the second stage
+  * Gain of the second stage increases which enhances the miller compensation
+  * The PSSR is the poor because of the miller compensation.
+  
+    ![image](https://user-images.githubusercontent.com/121993909/225251013-4d38d712-2422-40e3-b004-3ae4b172c6b4.png)
 
+  #### Balanced Two-Stage OpAmp
+  
+    ![image](https://user-images.githubusercontent.com/121993909/225251669-541704df-35b8-4952-a3ee-0145e945bf2f.png)
   
 </details>
