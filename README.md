@@ -1605,4 +1605,13 @@ Two types of VLSI Design Styles:
       - Cascoding to the 1st stage followed by a 2nd stage
       - Folded Cascode
   
+  #### First Stage Cascoding
+  
+    * Implement the cascoded mirror on top of 1st Differential Amplifier
+  
+      ![image](https://user-images.githubusercontent.com/121993909/225247399-31baf381-26a2-4df3-9287-98c2f4f334e8.png)
+
+      ![image](https://user-images.githubusercontent.com/121993909/225247668-5295d30d-42f6-483b-a987-4704a0f1c325.png)
+
+  
 </details>
