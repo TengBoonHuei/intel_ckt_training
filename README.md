@@ -1637,7 +1637,7 @@ Two types of VLSI Design Styles:
   
 </details>
 
-<details><summary> Assignment </summay>
+<details><summary> Assignment </summary>
 
 #### Folded Cascode Op-Amp Design
 
