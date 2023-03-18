@@ -194,7 +194,7 @@ This repo will be used of deposition of training documentations.
   
   <details><summary> Assignment </summary>
   
-  [Assignment - Folded Cascode Operational Amplifier Design]()
+  [Assignment - Folded Cascode Operational Amplifier Design](https://drive.google.com/file/d/1rjh_ExXxlQmLhQ090vT1KIaT2Yis0wjp/view?usp=share_link)
   
   </details>
   
@@ -1635,4 +1635,12 @@ Two types of VLSI Design Styles:
   
     ![image](https://user-images.githubusercontent.com/121993909/225253376-9dfa2580-0525-4985-bed9-e1b733874b73.png)
   
+</details>
+
+<details><summary> Assignment </summay>
+
+#### Folded Cascode Op-Amp Design
+
++ **[Folded Cascode Op-Amp Design](https://drive.google.com/file/d/1rjh_ExXxlQmLhQ090vT1KIaT2Yis0wjp/view?usp=share_link)**
+
 </details>
