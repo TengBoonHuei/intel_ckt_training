@@ -1729,4 +1729,10 @@ Solution: A BGR which can be integrated in bulk CMOS, Bi-CMOS or Bipolar technol
   
   ![image](https://user-images.githubusercontent.com/121993909/226167615-37b6790b-f6c2-47f6-b0ca-744664d365db.png)
   
+  #### Tuning
+  
+  * Tune the number of transistors or the amount of current to adjust the slope of CTAT.
+  
+  ![image](https://user-images.githubusercontent.com/121993909/226167853-ae5ed94a-745b-4efd-88d5-d70fd76aef4b.png)
+  
 </details>
