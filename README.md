@@ -197,6 +197,19 @@ This repo will be used of deposition of training documentations.
   [Assignment - Folded Cascode Operational Amplifier Design](https://drive.google.com/file/d/1rjh_ExXxlQmLhQ090vT1KIaT2Yis0wjp/view?usp=share_link)
   
   </details>
+
++ **[Day 18 - Bandgap Voltage Reference: BGR]()**
+  <details><summary> Theory </summary>
+  
+  [Theory - Bandgap Voltage Reference]()
+  
+  </details>
+  
+  <details><summary> Assignment </summary>
+  
+  [Assignment - Bandgap Voltage Reference Design]()
+  
+  </details>
   
 ## Day 1
 ## Theory - Overview of VLSI Design
@@ -1644,3 +1657,47 @@ Two types of VLSI Design Styles:
 + **[Folded Cascode Op-Amp Design](https://drive.google.com/file/d/1rjh_ExXxlQmLhQ090vT1KIaT2Yis0wjp/view?usp=share_link)**
 
 </details>
+
+## Day 18
+## Theory - Bandgap Voltage Reference (BGR)
+<details><summary> Introduction to BGR </summary>
+
+#### Bandgap Voltage Reference (BGR)
+
+* A circuit that produces constant voltage regardless of power supply variation, temperature changes and circuit loading.
+* PVT independent voltage reference circuit.
+* Output voltage of 1.2V - close to the bandgap energy of silicon at 0 deg Kelvin.
+
+![image](https://user-images.githubusercontent.com/121993909/226161890-dc8f1444-401b-4fba-a2b0-2d457b01f062.png)
+
+#### Why BGR?
+
+* A battery is not suitable for use as a reference voltage source
+  * voltage drops over time
+
+* A typical power supply is also not suitable
+  * noisy output and residual ripple
+  
+* A voltage reference IC used buried Zener diode
+  * Discrete design required additional components and high requency filtering circuits due to higher thermal noise
+  * Low voltage Zener diode is not available.
+
+Solution: A BGR which can be integrated in bulk CMOS, Bi-CMOS or Bipolar technologies without the use of external components.
+
+#### Applications of BGR
+
+* Low Dropout regulators (LDO)
+  
+  ![image](https://user-images.githubusercontent.com/121993909/226162649-234bb4e9-f64b-4167-8530-246a6c47ea94.png)
+
+* DC-to-DC buck converters
+
+  ![image](https://user-images.githubusercontent.com/121993909/226162676-2683852a-bc0e-42d3-bd25-89a56a4f0fd9.png)
+
+* Analog-to-Digital Converter (ADC)
+
+  ![image](https://user-images.githubusercontent.com/121993909/226162719-ea6d84ee-5e3c-4b0f-ba85-60c27e700144.png)
+
+* Digital-to-Analog Converter (DAC)
+
+  ![image](https://user-images.githubusercontent.com/121993909/226162726-d8728176-9c71-4dac-be79-4eaf0aee4dd6.png)
