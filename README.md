@@ -1825,3 +1825,28 @@ Solution: A BGR which can be integrated in bulk CMOS, Bi-CMOS or Bipolar technol
     ![image](https://user-images.githubusercontent.com/121993909/226172754-20ff5e8d-10bc-41a8-a9bf-c44ec2c3c3c3.png)
   
 </details>
+
+<details><summary> Start-Up Circuit </summary>
+  
+  #### Start-Up Issue
+  
+  * The main issue in the supply independent biasing is the existance if degenerate bias points.
+  * There are two stable operating points:
+    * Iin = Iout = 0A (undesired operating point)
+    * desired operating point
+  * Must keep the circuit out of the undesired point when the supply is turned on.
+  * Must not interfere with the circuit once it reaches the desired operating point.
+  
+  #### Start-Up Circuit
+  
+  * Initially circuit current at zero
+  * Net2 follows VDD
+  * During start-up, VDD is increases, net2 voltage will increase to a certain point to turn on the MP5.
+  * Some current will flows into net1 through MP5 causing the net1 voltage increases and turn on the MN1.
+  * This will activates the current mirror to copy the current flow in both sides of CTAT and PTAT paths.
+  * Until a certain point, the self-bias mirror will reach a stable state.
+  * Now the MN3 will be turned off, and the start-up circuit isolates itself apart from the main circuit.
+  
+  ![image](https://user-images.githubusercontent.com/121993909/226174288-5abcdfc3-9a9f-45dd-a6e1-a41d02d287ee.png)
+  
+</details>
