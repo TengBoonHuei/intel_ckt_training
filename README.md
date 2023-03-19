@@ -1822,4 +1822,4 @@ Solution: A BGR which can be integrated in bulk CMOS, Bi-CMOS or Bipolar technol
   
     ![image](https://user-images.githubusercontent.com/121993909/226172471-9287bcbe-1840-46a3-9b29-c56086e2c49c.png)
   
-<details>
+</details>
