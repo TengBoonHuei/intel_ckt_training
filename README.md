@@ -198,7 +198,7 @@ This repo will be used of deposition of training documentations.
   
   </details>
 
-+ **[Day 18 - Bandgap Voltage Reference: BGR]()**
++ **[Day 18 - Bandgap Voltage Reference: BGR](https://github.com/TengBoonHuei/intel_ckt_training/blob/main/README.md#day-18)**
   <details><summary> Theory </summary>
   
   [Theory - Bandgap Voltage Reference]()
