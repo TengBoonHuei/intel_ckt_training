@@ -1701,3 +1701,32 @@ Solution: A BGR which can be integrated in bulk CMOS, Bi-CMOS or Bipolar technol
 * Digital-to-Analog Converter (DAC)
 
   ![image](https://user-images.githubusercontent.com/121993909/226162726-d8728176-9c71-4dac-be79-4eaf0aee4dd6.png)
+  
+</details>
+
+<details><summary> BGR Principle </summary>
+  
+  * Create a Complementary-to-Absolute-Temperature (CTAT) circuit which is strongly influenced with temperature.
+  * Create a Proportional-to-Absolute-Temperature (PTAT) circuit which is weakly influenced with temperature.
+  * Increase the slope of PTAT by passing it through the multiplication factor, K.
+  * Sum up the CTAT and PTAT vector to achieve the constant reference voltage.
+  
+  ![image](https://user-images.githubusercontent.com/121993909/226164610-fbf01fb6-d297-4dfa-8b7e-9338409a31e7.png)
+
+</details>
+  
+<details><summary> CTAT Voltage Generation Circuit </summary>
+  
+  #### Circuit Overview
+  
+  * A cuurent flows through a diode, CTAT voltage will decreases due to temperature increases.
+  
+  ![image](https://user-images.githubusercontent.com/121993909/226166855-8c6e8d9c-b489-4704-86de-1b47fb778fa6.png)
+
+  #### Calculations
+  
+  * Calculate the voltage changes based on temperature changes
+  
+  ![image](https://user-images.githubusercontent.com/121993909/226167615-37b6790b-f6c2-47f6-b0ca-744664d365db.png)
+  
+</details>
