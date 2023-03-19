@@ -1820,6 +1820,8 @@ Solution: A BGR which can be integrated in bulk CMOS, Bi-CMOS or Bipolar technol
     * Temperature Coefficient of Vref should be zero
     * As all the values known , α can be calculated easily: R2 = α * R1
   
-    ![image](https://user-images.githubusercontent.com/121993909/226172471-9287bcbe-1840-46a3-9b29-c56086e2c49c.png)
+    ![image](https://user-images.githubusercontent.com/121993909/226172738-a28b7596-cb7c-431a-ace9-0b34e8f40ae9.png)
+  
+    ![image](https://user-images.githubusercontent.com/121993909/226172754-20ff5e8d-10bc-41a8-a9bf-c44ec2c3c3c3.png)
   
 </details>
