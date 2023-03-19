@@ -1736,3 +1736,28 @@ Solution: A BGR which can be integrated in bulk CMOS, Bi-CMOS or Bipolar technol
   ![image](https://user-images.githubusercontent.com/121993909/226167853-ae5ed94a-745b-4efd-88d5-d70fd76aef4b.png)
   
 </details>
+
+<details><summary> PTAT Voltage Generation Circuit </summary>
+
+  #### Circuit Overview and Calculations
+  
+  * Design another part of circuit to generate a positive slope, PTAT circuit.
+  * Using current mirror, Op-Amp or Voltage-control-voltage source
+  
+  ![image](https://user-images.githubusercontent.com/121993909/226168666-597756d6-db62-4a61-9deb-390e9d9aab07.png)
+  
+  #### Design using VCVS
+  
+  * Using Voltage-controled-voltage source integrated into the circuit to measure the current flows through both path.
+  
+  ![image](https://user-images.githubusercontent.com/121993909/226168950-e5b114b9-905b-4d67-9086-6151dfdd7a48.png)
+  
+  #### Design of R1 Resistance
+  
+  * R1 completely depends upon the power consumption and silicon area budget.
+  * R1 = Vt ln(N)/I
+  * Resistance decreases, so area decreases with the increase of circuit current.
+  * Resistance increase, so area increases with the decrease of circuit current.
+  * Also the resistance value depends on number of BJT used in the branch 2. For example, 10uA current with N=8, R1 calculated to be 5.4K Ohm.
+  
+</details>
