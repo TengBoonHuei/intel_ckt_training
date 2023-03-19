@@ -1850,3 +1850,11 @@ Solution: A BGR which can be integrated in bulk CMOS, Bi-CMOS or Bipolar technol
   ![image](https://user-images.githubusercontent.com/121993909/226174288-5abcdfc3-9a9f-45dd-a6e1-a41d02d287ee.png)
   
 </details>
+
+<details><summary> Complete BGR Circuit </summary>
+  
+  #### Complete BGR Circuit
+  
+  * ![image](https://user-images.githubusercontent.com/121993909/226174369-b0f6076e-1921-4d48-9934-95a9c5fa8234.png)
+  
+</details>
