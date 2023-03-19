@@ -1761,3 +1761,65 @@ Solution: A BGR which can be integrated in bulk CMOS, Bi-CMOS or Bipolar technol
   * Also the resistance value depends on number of BJT used in the branch 2. For example, 10uA current with N=8, R1 calculated to be 5.4K Ohm.
   
 </details>
+
+<details><summary> Self-bias Current Mirror Circuit </summary>
+  
+  #### Current Mirror
+  
+  * The objective of reference voltage generation is to establish a DC voltage or current that is:
+  
+    * Independent of supply
+    * Independent of process
+    * Well-defined behaviour with temperature
+  
+    ![image](https://user-images.githubusercontent.com/121993909/226171413-ec1a615f-c1ab-4b2f-93ac-8938b27d68ab.png)
+
+  * Issue: 
+    
+    * Output current of this circuit quite sensitive to VDD
+    * For less sensitive solution, the circuit must be bieas itself. Example, Iref must be some how derived from Iout.
+  
+  #### Self-biased Current Mirror
+  
+  * The idea of self bias is that, if Iout is to be ultimately independent of VDD, then Iref can be a replica of Iout.
+  * MP1 and MP2 copy Iout and define Iref.
+  * Since each diode connected device feed from a current source, Iout and Iref are relatively independent of VDD.
+  
+  ![image](https://user-images.githubusercontent.com/121993909/226171649-bfc09e6c-7154-48c0-8c67-37b2dc69c9d3.png)
+
+  * Issue:
+  
+    * The circuit is governed by one equation: Iout = K * Iref, hence can support any amount of current.
+    * To uniquely define the currents, another constrain must be added in the circuit.
+  
+  ![image](https://user-images.githubusercontent.com/121993909/226171726-73096bc2-dfe3-4010-9ab5-5b8a5bc336e3.png)
+
+  * In this circuit Rs defines current uniquely.
+  * Both Iout and Iref are very little dependent on VDD.
+  * Loop gain always less than one, by default the circuit is stable.
+  
+  * Issue: 
+  
+    * An important issue in the supply-independent biasing is the existance of degenerate bias point.
+    * Start-up problem when supply turned on.
+  
+</details>
+  
+<details><summary> Reference Voltage Branch Circuit </summary>
+   
+  * Current of I3 is same as I1 and I2
+  * Voltage across Q3 is CTAT type
+  * Voltage across R2 is PTAT type
+  * Vref is the addition of CTAT and PTAT voltages
+  * R2 = α * R1
+  
+  ![image](https://user-images.githubusercontent.com/121993909/226172326-9269e86a-b7ed-4c3e-b006-de244f58169b.png)
+
+  * Design of R2:
+  
+    * Temperature Coefficient of Vref should be zero
+    * As all the values known , α can be calculated easily: R2 = α * R1
+  
+    ![image](https://user-images.githubusercontent.com/121993909/226172471-9287bcbe-1840-46a3-9b29-c56086e2c49c.png)
+  
+<details>
