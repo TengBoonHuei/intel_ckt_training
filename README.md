@@ -207,7 +207,7 @@ This repo will be used of deposition of training documentations.
   
   <details><summary> Assignment </summary>
   
-  [Assignment - Bandgap Voltage Reference Design]()
+  [Assignment - Bandgap Voltage Reference Design](https://drive.google.com/file/d/1oeFQuFrZNLBuuE-vEIsZzy0zi3TIyPnX/view?usp=share_link)
   
   </details>
   
@@ -1856,5 +1856,13 @@ Solution: A BGR which can be integrated in bulk CMOS, Bi-CMOS or Bipolar technol
   #### Complete BGR Circuit
   
   * ![image](https://user-images.githubusercontent.com/121993909/226174369-b0f6076e-1921-4d48-9934-95a9c5fa8234.png)
+  
+</details>
+
+<details><summary> Assignment </summary>
+  
+  #### Assignment - Bandgap Voltage Reference
+  
+  + **[Bandgap Voltage Reference](https://drive.google.com/file/d/1oeFQuFrZNLBuuE-vEIsZzy0zi3TIyPnX/view?usp=share_link)**
   
 </details>
