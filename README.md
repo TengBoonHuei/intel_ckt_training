@@ -1949,7 +1949,6 @@ Solution: A BGR which can be integrated in bulk CMOS, Bi-CMOS or Bipolar technol
   #### Drop out Voltage
   
     * Drop out Voltage
-   
-    ![image](https://user-images.githubusercontent.com/121993909/227877065-fb435311-b263-4bde-b620-51d9f2235c6f.png)
+      ![image](https://user-images.githubusercontent.com/121993909/227877065-fb435311-b263-4bde-b620-51d9f2235c6f.png)
 
   </details>
