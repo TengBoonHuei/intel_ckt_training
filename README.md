@@ -1897,5 +1897,59 @@ Solution: A BGR which can be integrated in bulk CMOS, Bi-CMOS or Bipolar technol
   * The battery supplied the voltage to the regulator
   * ![image](https://user-images.githubusercontent.com/121993909/227870192-c5da3043-c538-4ae5-b133-20530422e6bf.png)
   * ![image](https://user-images.githubusercontent.com/121993909/227870238-833bba59-a564-4828-94dd-5df20176cb30.png)
+  
+  #### LDO vs Switching Regulator
+  
+  * LDO Regulator
+    * Output is clean DC
+    * Input to Output drop voltage is less
+    * Load current can be less or high
+    * Efficiency is high when Vin-Vout is less
+    * Simple in architecture and noise less
+    * Lesser Off-chip components
+    * No EMI
+  
+  * Switching Regulator
+    * Ripple present
+    * Input to output drop voltage is high
+    * Load current is high
+    * Efficiency is generally high > 90%
+    * Output voltage has ripple
+    * More off-chip components
+    * EMI possible (Inductor)
 
 </details>
+
+<details><summary> LDO Regulator </summary>
+
+  #### LDO Operation
+  
+    * PMOS LDO
+  
+      ![image](https://user-images.githubusercontent.com/121993909/227874134-5ee3fbef-37ec-48f3-a044-86fda5cb2ec8.png)
+
+    * NMOS LDO
+  
+      ![image](https://user-images.githubusercontent.com/121993909/227875825-d96ea016-972d-45ec-8afb-1a63115370d3.png)
+
+  #### PMOS vs NMOS LDO
+  
+    * PMOS LDO
+      * PMOS pass transistor bigger in size
+      * No charge pump circuit required
+      * Slower transient response
+      * Higher loop gain
+  
+    * NMOS LDO
+      * NMOS pass transistor smaller in size
+      * Charge pump required if Vin close to Vout
+      * Faster transient response
+      * Lesser loop gain
+  
+  #### Drop out Voltage
+  
+    * Drop out Voltage
+   
+      ![image](https://user-images.githubusercontent.com/121993909/227877065-fb435311-b263-4bde-b620-51d9f2235c6f.png)
+
+  </details>
