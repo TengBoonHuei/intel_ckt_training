@@ -1886,10 +1886,10 @@ Solution: A BGR which can be integrated in bulk CMOS, Bi-CMOS or Bipolar technol
   
   #### Voltage Regulator
   
-    * A power supply with a constant output voltage
-    * has both voltage rating and current rating.
-    * Ideal regulator gives a constant output voltage irrespective of any current through it
-    * Practical regulator givesa constant voltage up the maximum current rating
+  * A power supply with a constant output voltage
+  * has both voltage rating and current rating.
+  * Ideal regulator gives a constant output voltage irrespective of any current through it
+  * Practical regulator givesa constant voltage up the maximum current rating
   
   #### Need of Voltage Regulator
   
@@ -1932,17 +1932,17 @@ Solution: A BGR which can be integrated in bulk CMOS, Bi-CMOS or Bipolar technol
 
   #### PMOS vs NMOS LDO
   
-    * PMOS LDO
-      * PMOS pass transistor bigger in size
-      * No charge pump circuit required
-      * Slower transient response
-      * Higher loop gain
+  * PMOS LDO
+    * PMOS pass transistor bigger in size
+    * No charge pump circuit required
+    * Slower transient response
+    * Higher loop gain
   
-    * NMOS LDO
-      * NMOS pass transistor smaller in size
-      * Charge pump required if Vin close to Vout
-      * Faster transient response
-      * Lesser loop gain
+  * NMOS LDO
+    * NMOS pass transistor smaller in size
+    * Charge pump required if Vin close to Vout
+    * Faster transient response
+    * Lesser loop gain
   
   #### Drop out Voltage
   
