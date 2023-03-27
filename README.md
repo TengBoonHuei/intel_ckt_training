@@ -211,7 +211,7 @@ This repo will be used of deposition of training documentations.
   
   </details>
   
-+ **[Day 19 - Low Dropout Regulator: LDO]()**
++ **[Day 19 - Low Dropout Regulator: LDO](https://github.com/TengBoonHuei/intel_ckt_training/blob/main/README.md#day-19)**
   <details><summary> Theory </summary>
   
   [Theory - Low Dropout Regulator]()
