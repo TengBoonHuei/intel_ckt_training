@@ -1926,11 +1926,11 @@ Solution: A BGR which can be integrated in bulk CMOS, Bi-CMOS or Bipolar technol
   
     * PMOS LDO
   
-      * ![image](https://user-images.githubusercontent.com/121993909/227874134-5ee3fbef-37ec-48f3-a044-86fda5cb2ec8.png)
+    ![image](https://user-images.githubusercontent.com/121993909/227874134-5ee3fbef-37ec-48f3-a044-86fda5cb2ec8.png)
 
     * NMOS LDO
   
-      * ![image](https://user-images.githubusercontent.com/121993909/227875825-d96ea016-972d-45ec-8afb-1a63115370d3.png)
+    ![image](https://user-images.githubusercontent.com/121993909/227875825-d96ea016-972d-45ec-8afb-1a63115370d3.png)
 
   #### PMOS vs NMOS LDO
   
@@ -1950,6 +1950,6 @@ Solution: A BGR which can be integrated in bulk CMOS, Bi-CMOS or Bipolar technol
   
     * Drop out Voltage
    
-      * ![image](https://user-images.githubusercontent.com/121993909/227877065-fb435311-b263-4bde-b620-51d9f2235c6f.png)
+    ![image](https://user-images.githubusercontent.com/121993909/227877065-fb435311-b263-4bde-b620-51d9f2235c6f.png)
 
   </details>
