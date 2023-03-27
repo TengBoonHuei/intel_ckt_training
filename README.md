@@ -211,6 +211,19 @@ This repo will be used of deposition of training documentations.
   
   </details>
   
++ **[Day 19 - Low Dropout Regulator: LDO]()**
+  <details><summary> Theory </summary>
+  
+  [Theory - Low Dropout Regulator]()
+  
+  </details>
+  
+  <details><summary> Assignment </summary>
+  
+  [Assignment - Low Dropout Regulator Design]()
+  
+  </details>
+  
 ## Day 1
 ## Theory - Overview of VLSI Design
 
@@ -1865,4 +1878,14 @@ Solution: A BGR which can be integrated in bulk CMOS, Bi-CMOS or Bipolar technol
   
   + **[Bandgap Voltage Reference](https://drive.google.com/file/d/1oeFQuFrZNLBuuE-vEIsZzy0zi3TIyPnX/view?usp=share_link)**
   
+</details>
+
+## Day 19
+## Theory - Low Dropout Regulator
+<details><summary> Voltage Regulator </summary>
+  #### Voltage Regulator
+  * A power supply with a constant output voltage
+  * has both voltage rating and current rating.
+  * Ideal regulator gives a constant output voltage irrespective of any current through it
+  * Practical regulator givesa constant voltage up the maximum current rating
 </details>
