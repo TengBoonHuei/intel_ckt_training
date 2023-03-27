@@ -214,7 +214,7 @@ This repo will be used of deposition of training documentations.
 + **[Day 19 - Low Dropout Regulator: LDO](https://github.com/TengBoonHuei/intel_ckt_training/blob/main/README.md#day-19)**
   <details><summary> Theory </summary>
   
-  [Theory - Low Dropout Regulator]()
+  [Theory - Low Dropout Regulator](https://github.com/TengBoonHuei/intel_ckt_training/blob/main/README.md#theory---low-dropout-regulator)
   
   </details>
   
@@ -1883,9 +1883,19 @@ Solution: A BGR which can be integrated in bulk CMOS, Bi-CMOS or Bipolar technol
 ## Day 19
 ## Theory - Low Dropout Regulator
 <details><summary> Voltage Regulator </summary>
+  
   #### Voltage Regulator
-  * A power supply with a constant output voltage
-  * has both voltage rating and current rating.
-  * Ideal regulator gives a constant output voltage irrespective of any current through it
-  * Practical regulator givesa constant voltage up the maximum current rating
+  
+    * A power supply with a constant output voltage
+    * has both voltage rating and current rating.
+    * Ideal regulator gives a constant output voltage irrespective of any current through it
+    * Practical regulator givesa constant voltage up the maximum current rating
+  
+  #### Need of Voltage Regulator
+  
+  * Regulated voltage is a constant voltage required by the circuits inside the chip to function appropriately
+  * The battery supplied the voltage to the regulator
+  * ![image](https://user-images.githubusercontent.com/121993909/227870192-c5da3043-c538-4ae5-b133-20530422e6bf.png)
+  * ![image](https://user-images.githubusercontent.com/121993909/227870238-833bba59-a564-4828-94dd-5df20176cb30.png)
+
 </details>
