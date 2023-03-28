@@ -220,7 +220,7 @@ This repo will be used of deposition of training documentations.
   
   <details><summary> Assignment </summary>
   
-  [Assignment - Low Dropout Regulator Design]()
+  [Assignment - Low Dropout Regulator Design](https://drive.google.com/file/d/1ym62LVcX7psxi_RNyxBs2DJx4WRQKYux/view?usp=share_link)
   
   </details>
   
@@ -1949,4 +1949,12 @@ Solution: A BGR which can be integrated in bulk CMOS, Bi-CMOS or Bipolar technol
   * Drop out Voltage
   * ![image](https://user-images.githubusercontent.com/121993909/227877065-fb435311-b263-4bde-b620-51d9f2235c6f.png)
 
-  </details>
+</details>
+
+<details><summary> Assignment </summary>
+  
+  #### Assignment - LDO
+  
+  + **[Low Dropout Regulator](https://drive.google.com/file/d/1ym62LVcX7psxi_RNyxBs2DJx4WRQKYux/view?usp=share_link)**
+  
+</details>
